@@ -1,0 +1,5001 @@
+Device,Unusual_Voice_Pattern,Unauthorized_Command,Network_Anomaly,Ultrasonic_Signal_Detected,Abnormal_Response_Time,Hacked
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,1,0,1
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,1,0,0,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,1,0,0,0,1,1
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+HomePod,0,0,0,0,1,0
+HomePod,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,1,1,0,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,1,1,0,0,0,1
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,1,0,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,1,1
+Alexa,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,1,0,1
+Alexa,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,1,0,0,1,0,1
+HomePod,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,1,1
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,1,0,1
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,1,0,1
+Alexa,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,0,1,1
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,1,0,1,1
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,1,1
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,1,1
+HomePod,0,0,0,0,0,0
+HomePod,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,1,0,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,1,0,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,1,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,0,1,1
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+Alexa,0,0,1,0,1,1
+HomePod,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,1,0,0,0,1
+Alexa,1,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,1,0,0,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+Alexa,0,1,1,0,0,1
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,1,1
+Google Nest,0,0,0,1,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,1,1,0,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,1,0,0,1,1
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,1,0,0,0,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,1,1,0,1
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,1,0,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,1,0,0,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,1,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Alexa,1,1,0,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,1,1
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,1,0,0,1,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,1,0,1
+HomePod,0,0,1,0,1,1
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,1,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,1,1,1
+HomePod,0,1,0,1,0,1
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,1,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,1,1,1
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,1,1,0,1
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,1,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,1,0,0,0,1
+Alexa,0,1,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,1,0,1
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,1,0,0,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,1,0,1,1
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,1,0,1
+Google Nest,1,1,0,0,0,1
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,1,1,0,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,0,0,1,1
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,1,0,0,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,1,0,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,1,0,0,1
+Alexa,0,0,0,0,1,0
+HomePod,0,1,1,0,0,1
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,1,1
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,1,1,0,1
+Alexa,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,1,0,0,1
+HomePod,1,0,0,0,1,1
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,1,0,1
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+HomePod,0,1,0,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,1,1
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,1,0,0,1,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,1,1
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,1,1,0,0,0,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,1,1
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,1,1,1
+Google Nest,0,0,0,1,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,1,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,1,0,0,1,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,0,0,0,1,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,1,0,1,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,1,1,0,0,0,1
+Alexa,0,0,0,1,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+HomePod,1,1,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,1,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,1,1,0,1
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,1,0,1
+Alexa,0,0,1,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,1,0,0,1
+HomePod,0,0,0,1,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Google Nest,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+Google Nest,0,1,1,0,0,1
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,1,0,0,1
+Google Nest,1,0,0,0,1,1
+HomePod,0,1,1,0,0,1
+HomePod,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,0,1,1
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,1,0,1
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,1,0,0,0,0
+HomePod,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,1,0,1
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,1,0,1,1
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,1,0,1
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,1,0,1
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,1,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,1,0,0,1,1
+HomePod,0,1,0,0,0,0
+HomePod,1,0,1,0,0,1
+HomePod,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,1,1,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,1,1
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,1,1
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Google Nest,0,1,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,1,1,1
+Google Nest,0,0,1,0,0,0
+Google Nest,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,1,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,1,0,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,1,0,0,0,0
+Alexa,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,1,0,1,0,0,1
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+Alexa,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,1,1,0,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,1,1,0,0,1
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,1,0,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Alexa,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,1,0,1
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,1,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,1,0,0,0
+Google Nest,0,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,1,0,1
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+Google Nest,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,1,0,1,1
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,1,0,0,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,0,1,1
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,1,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Alexa,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,1,0,1
+Alexa,1,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,1,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,1,0,0,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,1,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,1,1,1
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,1,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,1,0,0,0,1,1
+Alexa,1,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,1,1,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+HomePod,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,1,0,0,1,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+Alexa,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,1,0,0,0,1,1
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,1,0,0,0,0
+Google Nest,1,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,1,0,0,1,0,1
+Google Nest,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,1,1,1,1,0,1
+HomePod,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,1,0,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,1,0,1
+HomePod,0,1,0,0,0,0
+HomePod,1,0,1,0,0,1
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,1,0,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,1,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,1,0,1,1
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Alexa,1,0,0,1,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,1,0,1
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,1,1,0,1
+Alexa,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,1,0,1
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Alexa,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,1,0,1,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,1,0,1
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+HomePod,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+Google Nest,0,0,0,1,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,1,1,0,0,1
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,1,0,0,0,1
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,1,0,1
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,1,1
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,1,1,0,0,0,1
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,1,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,1,0,1,0,0,1
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+HomePod,0,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,1,1,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,1,0,1,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,1,0,1
+HomePod,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,1,0,1
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+HomePod,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,1,1,0,1
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,1,1,0,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,1,0,0,1,0,1
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,1,1
+Google Nest,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,1,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,1,0,1,1,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,1,0,1,0,1
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,1,1,1,0,0,1
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,1,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+HomePod,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,1,0,1,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,1,1,1
+Alexa,0,0,0,0,0,0
+HomePod,1,1,0,0,0,1
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,1,0,0,1,1
+HomePod,1,0,1,0,0,1
+Google Nest,0,0,0,0,1,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,1,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,1,0,1,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+Google Nest,0,1,0,1,0,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,1,0,1
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,1,1,0,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,1,0,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,1,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,1,0,1
+Alexa,1,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,1,1,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,1,1,1
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,1,1,1
+Google Nest,1,0,0,1,0,1
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,1,0,0
+Alexa,1,0,0,0,1,1
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,1,0,1,0,0,1
+Google Nest,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,1,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,1,1
+Google Nest,1,0,0,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,1,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Google Nest,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,1,0,0,0,1
+HomePod,0,1,1,0,0,1
+HomePod,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,1,1,1,0,1
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,1,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+Google Nest,1,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,1,1,0,1
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,1,0,1,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,1,1,0,0,1,1
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,1,0,1,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,1,1
+Alexa,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,1,0,0,0,1,1
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,1,0,0,1,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,1,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,1,0,1
+Alexa,0,0,1,0,0,0
+Alexa,1,0,0,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,1,0,1,0,1,1
+Alexa,0,1,0,0,0,0
+Alexa,1,1,0,0,0,1
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,1,1
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,1,1,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,1,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+Google Nest,1,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+Alexa,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,1,1,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Alexa,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,1,0,1
+Google Nest,0,0,1,0,1,1
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,1,0,1,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,1,1,0,0,0,1
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,1,1,0,1
+HomePod,0,0,0,0,0,0
+HomePod,1,1,0,0,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,1,0,1
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,1,1,0,1
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,1,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,1,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,1,1
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,1,0,0,1,1,1
+Google Nest,0,0,1,0,1,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,1,0,0,1,1
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,1,0,0,0,0
+Google Nest,0,1,1,0,1,1
+Google Nest,0,0,1,0,1,1
+HomePod,0,0,0,0,1,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,1,0,1
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,1,0,0
+HomePod,0,0,1,1,0,1
+HomePod,1,1,0,0,0,1
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,1,0,1,1
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,1,0,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,1,0,0,1
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,1,0,1,1
+Alexa,1,0,0,0,0,0
+Google Nest,1,0,1,0,1,1
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,1,1
+Alexa,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,0,0,0,1,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,1,1,0,0,0,1
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,1,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,1,1,0,0,1,1
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,1,1,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,1,0,1,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+Google Nest,0,0,1,0,1,1
+Alexa,0,0,1,0,0,0
+Alexa,0,1,1,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,1,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+HomePod,0,1,1,0,1,1
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+Alexa,1,0,1,0,0,1
+Alexa,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+HomePod,0,0,1,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,1,1
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,1,0,0,1
+HomePod,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,1,0,0,1,0,1
+Google Nest,1,0,1,0,0,1
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,1,0,1,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,1,0,0,1,1
+Google Nest,0,1,1,1,0,1
+HomePod,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,1,0,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+Alexa,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,1,1,0,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,1,0,1
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Google Nest,1,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,1,1,0,0,1
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,1,0,1,1
+Alexa,0,1,0,0,0,0
+HomePod,0,0,1,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,1,1,0,0,1,1
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,1,1
+Google Nest,0,1,1,0,0,1
+Alexa,0,0,0,1,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+HomePod,0,1,0,1,0,1
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Alexa,0,0,1,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,1,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,1,0,1,0,0,1
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,1,0
+Alexa,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Google Nest,0,0,1,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,1,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Google Nest,1,0,1,0,0,1
+Google Nest,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+HomePod,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,1,0
+Alexa,1,0,0,0,0,0
+Google Nest,1,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Google Nest,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,1,0
+HomePod,0,0,0,0,0,0
+Alexa,0,1,0,0,0,0
+Alexa,0,0,0,0,0,0
+HomePod,0,0,0,0,0,0
+Google Nest,0,0,1,0,0,0
+HomePod,0,0,0,0,0,0
+Alexa,0,0,0,0,0,0
