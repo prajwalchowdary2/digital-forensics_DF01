@@ -1,0 +1,1001 @@
+Timestamp,Response,Pitch,Duration,Spectral_Centroid,Network_Activity,Label
+2025-02-13 02:14:52.947503,Searching for a new user...,296.4,1.09,965.4,Malicious,suspicious
+2025-02-13 01:16:42.947503,"Unrecognized command, please try again.",211.29,1.54,4468.72,Normal,normal
+2025-02-12 19:21:09.947503,Connecting to an unknown server...,183.04,2.5,2613.49,Suspicious,suspicious
+2025-02-13 01:13:43.947503,Unlocking the front door...,177.0,2.84,1121.59,Malicious,hacked
+2025-02-13 02:21:55.947503,"Unrecognized command, please try again.",268.13,2.29,2479.73,Normal,normal
+2025-02-12 13:07:54.947503,"I'm sorry, I can't do that.",199.43,2.52,4377.75,Normal,normal
+2025-02-12 09:39:20.947503,"I'm sorry, I can't do that.",296.08,1.59,1517.79,Normal,normal
+2025-02-13 01:02:59.947503,I'm listening all the time...,128.79,1.7,4239.82,Suspicious,suspicious
+2025-02-12 10:45:33.947503,"I'm sorry, I can't do that.",152.85,1.55,2149.01,Normal,normal
+2025-02-12 22:02:03.947503,Sending your banking details...,263.68,1.05,4351.82,Normal,hacked
+2025-02-13 08:15:12.947503,"Okay, turning on the lights.",133.2,1.07,2521.84,Normal,normal
+2025-02-12 19:48:44.947503,Unlocking the front door...,261.84,2.21,3733.87,Normal,hacked
+2025-02-12 10:02:55.947503,"Unrecognized command, please try again.",231.66,2.51,4155.15,Normal,normal
+2025-02-13 09:00:15.947503,"Unrecognized command, please try again.",131.91,1.22,3167.52,Normal,normal
+2025-02-12 10:00:58.947503,Sending your banking details...,101.45,1.81,1022.34,Malicious,hacked
+2025-02-12 10:46:28.947503,Unlocking the front door...,245.87,2.8,3886.65,Suspicious,hacked
+2025-02-12 17:03:54.947503,I'm listening all the time...,196.49,2.43,3093.41,Suspicious,suspicious
+2025-02-12 21:22:34.947503,"Okay, turning on the lights.",269.06,1.31,2468.79,Normal,normal
+2025-02-12 17:39:27.947503,Searching for a new user...,285.67,1.38,1070.09,Malicious,suspicious
+2025-02-12 13:26:05.947503,Searching for a new user...,218.41,2.24,4357.3,Suspicious,suspicious
+2025-02-12 13:09:18.947503,Searching for a new user...,293.72,1.67,4528.17,Malicious,suspicious
+2025-02-13 09:04:45.947503,Searching for a new user...,103.97,1.76,3657.34,Malicious,suspicious
+2025-02-12 14:24:40.947503,Unlocking the front door...,125.26,1.08,2557.42,Normal,hacked
+2025-02-12 16:01:27.947503,Sending your banking details...,262.38,1.26,4717.36,Normal,hacked
+2025-02-12 11:20:20.947503,"I'm sorry, I can't do that.",212.42,0.62,3107.17,Normal,normal
+2025-02-12 18:12:55.947503,Unlocking the front door...,119.02,2.9,656.97,Suspicious,hacked
+2025-02-13 03:55:18.947503,I'm listening all the time...,128.55,2.38,898.85,Normal,suspicious
+2025-02-13 00:17:00.947503,Unlocking the front door...,139.44,2.55,2904.97,Suspicious,hacked
+2025-02-12 21:57:17.947503,"Okay, turning on the lights.",269.38,1.0,4930.03,Normal,normal
+2025-02-13 04:20:59.947503,I'm listening all the time...,268.57,1.6,2276.82,Suspicious,suspicious
+2025-02-13 00:19:05.947503,I'm listening all the time...,153.92,2.85,3220.49,Suspicious,suspicious
+2025-02-12 17:45:28.947503,"Unrecognized command, please try again.",125.42,0.77,1324.98,Normal,normal
+2025-02-12 23:10:57.947503,Searching for a new user...,207.71,2.77,4285.66,Malicious,suspicious
+2025-02-12 18:35:32.947503,Connecting to an unknown server...,204.42,1.31,2222.65,Normal,suspicious
+2025-02-12 13:42:01.947503,I'm listening all the time...,211.8,2.94,1383.81,Malicious,suspicious
+2025-02-12 20:19:09.947503,"Okay, turning on the lights.",282.15,2.47,3247.59,Normal,normal
+2025-02-12 16:40:54.947503,"I'm sorry, I can't do that.",185.22,2.69,4393.91,Normal,normal
+2025-02-12 13:21:53.947503,Connecting to an unknown server...,110.87,1.01,4973.26,Normal,suspicious
+2025-02-12 21:00:41.947503,Unlocking the front door...,285.49,0.73,3541.27,Malicious,hacked
+2025-02-12 10:34:03.947503,Searching for a new user...,166.74,2.37,1437.9,Suspicious,suspicious
+2025-02-12 16:36:23.947503,Unlocking the front door...,272.06,1.78,1915.03,Normal,hacked
+2025-02-12 12:03:50.947503,"Okay, turning on the lights.",130.9,0.81,1582.74,Normal,normal
+2025-02-12 18:08:17.947503,Connecting to an unknown server...,212.16,0.95,3727.89,Suspicious,suspicious
+2025-02-12 19:15:55.947503,Searching for a new user...,235.94,0.59,2622.25,Suspicious,suspicious
+2025-02-12 10:26:05.947503,Connecting to an unknown server...,262.54,2.57,3897.14,Normal,suspicious
+2025-02-13 01:18:05.947503,"Unrecognized command, please try again.",160.08,0.81,597.57,Normal,normal
+2025-02-13 09:03:26.947503,"Unrecognized command, please try again.",270.79,1.93,4504.65,Normal,normal
+2025-02-12 15:17:33.947503,"Unrecognized command, please try again.",211.29,0.52,2835.22,Normal,normal
+2025-02-13 03:37:50.947503,Searching for a new user...,287.49,2.17,1976.46,Normal,suspicious
+2025-02-12 12:13:19.947503,"Unrecognized command, please try again.",150.4,2.96,4104.36,Normal,normal
+2025-02-12 23:44:08.947503,"Okay, turning on the lights.",286.85,0.84,3881.85,Normal,normal
+2025-02-13 08:37:13.947503,I'm listening all the time...,207.42,2.66,2263.46,Suspicious,suspicious
+2025-02-13 08:51:20.947503,"Okay, turning on the lights.",265.88,2.71,3591.89,Normal,normal
+2025-02-12 10:12:24.947503,I'm listening all the time...,123.85,2.2,1332.88,Normal,suspicious
+2025-02-13 08:04:51.947503,"Okay, turning on the lights.",260.66,1.93,2749.14,Normal,normal
+2025-02-12 13:17:27.947503,I'm listening all the time...,217.48,1.73,799.15,Suspicious,suspicious
+2025-02-12 13:33:14.947503,"Okay, turning on the lights.",297.58,2.31,586.02,Normal,normal
+2025-02-13 05:48:28.947503,"I'm sorry, I can't do that.",234.22,1.86,1308.17,Normal,normal
+2025-02-12 15:00:15.947503,Sending your banking details...,189.56,2.95,3883.87,Malicious,hacked
+2025-02-13 03:53:16.947503,"Unrecognized command, please try again.",298.38,2.74,1835.41,Normal,normal
+2025-02-13 03:33:08.947503,Searching for a new user...,188.1,2.38,4536.37,Suspicious,suspicious
+2025-02-12 11:03:11.947503,Unlocking the front door...,111.38,0.94,3608.63,Suspicious,hacked
+2025-02-12 18:10:12.947503,"Unrecognized command, please try again.",287.56,1.93,2997.68,Normal,normal
+2025-02-13 08:15:55.947503,I'm listening all the time...,295.06,1.45,2352.64,Malicious,suspicious
+2025-02-13 03:12:04.947503,Connecting to an unknown server...,109.07,0.53,501.71,Suspicious,suspicious
+2025-02-12 16:20:19.947503,"Unrecognized command, please try again.",135.16,2.83,3062.93,Normal,normal
+2025-02-12 20:58:58.947503,Sending your banking details...,206.78,2.69,2513.4,Malicious,hacked
+2025-02-13 07:08:34.947503,Sending your banking details...,209.33,2.06,2402.12,Normal,hacked
+2025-02-12 12:41:49.947503,"Okay, turning on the lights.",123.78,1.57,3075.51,Normal,normal
+2025-02-13 03:28:53.947503,Searching for a new user...,104.84,1.3,1676.82,Suspicious,suspicious
+2025-02-12 15:44:23.947503,"Okay, turning on the lights.",216.05,1.67,754.13,Normal,normal
+2025-02-12 15:18:30.947503,I'm listening all the time...,140.38,2.88,657.34,Normal,suspicious
+2025-02-12 11:45:27.947503,I'm listening all the time...,293.77,2.94,4683.41,Malicious,suspicious
+2025-02-12 20:40:23.947503,Sending your banking details...,212.31,1.32,4789.46,Normal,hacked
+2025-02-13 02:50:07.947503,I'm listening all the time...,154.95,2.79,1235.53,Normal,suspicious
+2025-02-12 19:05:04.947503,"Okay, turning on the lights.",239.44,1.49,4435.82,Normal,normal
+2025-02-13 07:23:00.947503,Unlocking the front door...,195.95,0.93,1274.98,Malicious,hacked
+2025-02-12 19:25:39.947503,"Okay, turning on the lights.",191.29,0.78,1601.32,Normal,normal
+2025-02-13 05:04:03.947503,I'm listening all the time...,154.72,2.53,4571.38,Malicious,suspicious
+2025-02-13 00:14:11.947503,Sending your banking details...,240.79,1.88,2318.94,Suspicious,hacked
+2025-02-12 11:45:32.947503,"I'm sorry, I can't do that.",266.86,1.04,1643.04,Normal,normal
+2025-02-13 01:41:52.947503,Sending your banking details...,128.41,2.18,4597.54,Normal,hacked
+2025-02-13 08:02:23.947503,I'm listening all the time...,213.79,1.08,2093.52,Malicious,suspicious
+2025-02-12 22:11:47.947503,"I'm sorry, I can't do that.",295.58,0.64,4370.35,Normal,normal
+2025-02-13 06:58:35.947503,"Unrecognized command, please try again.",205.41,1.73,2453.09,Normal,normal
+2025-02-12 10:37:31.947503,Sending your banking details...,139.87,2.89,2344.02,Malicious,hacked
+2025-02-12 19:12:50.947503,"I'm sorry, I can't do that.",102.12,1.62,2203.86,Normal,normal
+2025-02-13 09:24:00.947503,Searching for a new user...,286.37,1.96,2470.31,Suspicious,suspicious
+2025-02-12 13:13:34.947503,Searching for a new user...,256.91,1.7,2948.32,Malicious,suspicious
+2025-02-12 11:55:37.947503,"Okay, turning on the lights.",213.92,1.99,1861.8,Normal,normal
+2025-02-12 21:20:02.947503,Sending your banking details...,165.31,0.56,3800.62,Normal,hacked
+2025-02-12 22:43:49.947503,Sending your banking details...,296.59,0.54,3752.36,Normal,hacked
+2025-02-13 01:35:00.947503,"I'm sorry, I can't do that.",222.1,1.9,2800.83,Normal,normal
+2025-02-12 18:33:39.947503,Sending your banking details...,203.45,2.44,1352.07,Malicious,hacked
+2025-02-12 15:30:20.947503,"Okay, turning on the lights.",110.03,2.08,3611.25,Normal,normal
+2025-02-12 14:28:52.947503,"Unrecognized command, please try again.",133.13,2.91,2151.73,Normal,normal
+2025-02-13 04:11:13.947503,Unlocking the front door...,263.58,2.4,3185.58,Normal,hacked
+2025-02-12 13:03:59.947503,Connecting to an unknown server...,120.71,2.77,789.8,Suspicious,suspicious
+2025-02-13 01:47:32.947503,Connecting to an unknown server...,293.77,0.51,2865.04,Normal,suspicious
+2025-02-12 12:16:42.947503,Searching for a new user...,274.29,2.5,3748.41,Suspicious,suspicious
+2025-02-13 01:29:10.947503,Sending your banking details...,136.33,1.28,4705.0,Suspicious,hacked
+2025-02-12 15:28:49.947503,Unlocking the front door...,137.92,1.58,1047.63,Suspicious,hacked
+2025-02-12 12:43:42.947503,Unlocking the front door...,172.58,2.63,2416.28,Suspicious,hacked
+2025-02-12 16:05:57.947503,"Okay, turning on the lights.",116.69,2.33,2196.5,Normal,normal
+2025-02-12 16:33:00.947503,Searching for a new user...,203.49,2.99,2733.34,Suspicious,suspicious
+2025-02-13 05:42:38.947503,Unlocking the front door...,185.19,2.23,2108.01,Suspicious,hacked
+2025-02-12 10:41:56.947503,"Okay, turning on the lights.",296.66,1.14,2473.28,Normal,normal
+2025-02-13 08:36:14.947503,Sending your banking details...,295.84,1.58,4231.96,Malicious,hacked
+2025-02-13 04:44:25.947503,Searching for a new user...,291.88,2.53,3235.19,Normal,suspicious
+2025-02-12 16:07:03.947503,Sending your banking details...,124.4,2.21,2705.76,Suspicious,hacked
+2025-02-12 13:28:02.947503,"Unrecognized command, please try again.",108.83,2.12,4004.49,Normal,normal
+2025-02-12 12:03:25.947503,"Okay, turning on the lights.",206.1,1.94,2068.77,Normal,normal
+2025-02-12 14:44:49.947503,Searching for a new user...,189.42,1.31,4261.89,Normal,suspicious
+2025-02-12 22:46:36.947503,"Unrecognized command, please try again.",138.26,2.93,1848.88,Normal,normal
+2025-02-12 15:20:08.947503,I'm listening all the time...,298.93,0.55,2346.15,Normal,suspicious
+2025-02-13 01:59:45.947503,Unlocking the front door...,287.27,2.39,2360.61,Normal,hacked
+2025-02-13 01:35:14.947503,Sending your banking details...,244.57,1.12,4694.04,Suspicious,hacked
+2025-02-12 23:01:48.947503,Unlocking the front door...,287.13,1.95,3480.97,Suspicious,hacked
+2025-02-13 03:25:20.947503,I'm listening all the time...,157.0,1.95,2777.82,Normal,suspicious
+2025-02-12 12:47:52.947503,"Okay, turning on the lights.",116.01,2.62,3306.96,Normal,normal
+2025-02-12 12:34:19.947503,"Unrecognized command, please try again.",114.09,1.45,503.52,Normal,normal
+2025-02-13 01:48:06.947503,Searching for a new user...,281.13,2.57,4246.71,Normal,suspicious
+2025-02-13 03:47:50.947503,Searching for a new user...,237.43,0.63,4641.37,Normal,suspicious
+2025-02-13 06:36:28.947503,Searching for a new user...,179.86,1.95,1636.63,Suspicious,suspicious
+2025-02-12 10:08:37.947503,Unlocking the front door...,137.51,1.31,2299.73,Normal,hacked
+2025-02-12 20:54:50.947503,Searching for a new user...,190.74,1.4,3473.91,Normal,suspicious
+2025-02-12 21:23:31.947503,"Unrecognized command, please try again.",167.65,2.34,2271.14,Normal,normal
+2025-02-12 12:10:53.947503,Connecting to an unknown server...,191.32,2.85,3712.96,Suspicious,suspicious
+2025-02-12 18:01:24.947503,Connecting to an unknown server...,281.88,1.44,3682.83,Suspicious,suspicious
+2025-02-12 13:23:55.947503,Searching for a new user...,115.86,2.82,642.77,Suspicious,suspicious
+2025-02-12 16:07:11.947503,Searching for a new user...,180.18,1.73,1247.38,Normal,suspicious
+2025-02-12 11:46:11.947503,"I'm sorry, I can't do that.",102.8,1.2,2592.08,Normal,normal
+2025-02-12 13:17:23.947503,"Okay, turning on the lights.",291.13,2.96,3981.81,Normal,normal
+2025-02-12 10:24:56.947503,Unlocking the front door...,181.2,0.6,3601.59,Malicious,hacked
+2025-02-12 23:11:27.947503,"I'm sorry, I can't do that.",154.08,2.88,3256.07,Normal,normal
+2025-02-12 20:15:31.947503,I'm listening all the time...,261.09,1.67,3838.43,Normal,suspicious
+2025-02-13 09:24:34.947503,I'm listening all the time...,211.28,1.28,1022.25,Malicious,suspicious
+2025-02-12 10:48:24.947503,I'm listening all the time...,115.67,2.93,2500.05,Suspicious,suspicious
+2025-02-12 19:43:14.947503,"Okay, turning on the lights.",225.02,1.13,3164.33,Normal,normal
+2025-02-13 06:50:37.947503,Unlocking the front door...,123.67,0.6,4649.83,Normal,hacked
+2025-02-12 12:05:08.947503,"I'm sorry, I can't do that.",155.98,1.89,1559.25,Normal,normal
+2025-02-13 07:05:57.947503,"Okay, turning on the lights.",226.16,2.55,521.75,Normal,normal
+2025-02-13 03:44:27.947503,Sending your banking details...,138.23,2.45,2510.89,Malicious,hacked
+2025-02-12 12:24:54.947503,Searching for a new user...,184.56,2.62,4679.48,Suspicious,suspicious
+2025-02-12 23:50:50.947503,"I'm sorry, I can't do that.",185.38,1.17,3699.25,Normal,normal
+2025-02-12 14:45:03.947503,Unlocking the front door...,279.48,1.18,4221.41,Suspicious,hacked
+2025-02-12 22:56:08.947503,"Unrecognized command, please try again.",293.99,2.35,1301.75,Normal,normal
+2025-02-12 14:16:59.947503,Sending your banking details...,262.53,1.93,1791.8,Malicious,hacked
+2025-02-12 22:23:35.947503,I'm listening all the time...,270.02,1.97,2533.05,Suspicious,suspicious
+2025-02-12 16:06:24.947503,Searching for a new user...,299.55,1.77,4577.85,Malicious,suspicious
+2025-02-12 23:03:49.947503,"Unrecognized command, please try again.",220.86,2.12,3016.18,Normal,normal
+2025-02-12 13:09:42.947503,"Okay, turning on the lights.",168.66,1.84,4951.89,Normal,normal
+2025-02-13 01:15:49.947503,"Okay, turning on the lights.",148.81,2.89,2031.28,Normal,normal
+2025-02-12 13:57:47.947503,I'm listening all the time...,294.58,0.52,1385.78,Malicious,suspicious
+2025-02-12 10:05:02.947503,Unlocking the front door...,235.97,2.04,688.25,Malicious,hacked
+2025-02-12 23:01:10.947503,"Unrecognized command, please try again.",276.27,2.07,1227.86,Normal,normal
+2025-02-13 04:25:14.947503,I'm listening all the time...,279.75,1.45,4328.06,Malicious,suspicious
+2025-02-12 20:26:28.947503,"Okay, turning on the lights.",289.16,0.61,923.36,Normal,normal
+2025-02-12 11:57:01.947503,"I'm sorry, I can't do that.",193.88,2.47,3191.1,Normal,normal
+2025-02-12 10:21:46.947503,"Unrecognized command, please try again.",206.24,1.69,2003.29,Normal,normal
+2025-02-13 07:26:40.947503,"Unrecognized command, please try again.",207.2,1.31,525.54,Normal,normal
+2025-02-12 11:17:05.947503,Unlocking the front door...,285.15,1.71,4106.2,Malicious,hacked
+2025-02-12 13:26:01.947503,Unlocking the front door...,233.04,2.77,1541.51,Suspicious,hacked
+2025-02-12 19:48:28.947503,Unlocking the front door...,292.56,1.1,2294.26,Suspicious,hacked
+2025-02-13 09:10:53.947503,"Unrecognized command, please try again.",240.83,1.88,3415.58,Normal,normal
+2025-02-12 19:50:29.947503,"I'm sorry, I can't do that.",156.13,0.58,4975.26,Normal,normal
+2025-02-12 12:28:18.947503,Unlocking the front door...,239.85,0.88,2306.93,Normal,hacked
+2025-02-12 09:55:52.947503,"Okay, turning on the lights.",198.62,2.06,2791.43,Normal,normal
+2025-02-12 17:48:23.947503,I'm listening all the time...,157.55,1.53,2737.38,Suspicious,suspicious
+2025-02-12 16:44:39.947503,Connecting to an unknown server...,126.03,2.08,4125.23,Normal,suspicious
+2025-02-12 23:47:44.947503,"I'm sorry, I can't do that.",216.04,0.61,2452.19,Normal,normal
+2025-02-12 20:08:15.947503,Connecting to an unknown server...,125.5,2.6,3780.05,Normal,suspicious
+2025-02-12 23:58:35.947503,Unlocking the front door...,156.06,1.53,1728.65,Malicious,hacked
+2025-02-13 07:33:35.947503,Connecting to an unknown server...,168.86,2.67,1513.17,Normal,suspicious
+2025-02-12 19:43:33.947503,"Okay, turning on the lights.",149.67,1.39,3985.67,Normal,normal
+2025-02-12 17:44:10.947503,Connecting to an unknown server...,107.5,0.79,2851.85,Malicious,suspicious
+2025-02-13 04:23:46.947503,Unlocking the front door...,156.14,1.24,3723.65,Malicious,hacked
+2025-02-13 03:40:06.947503,Connecting to an unknown server...,116.71,1.38,3561.03,Suspicious,suspicious
+2025-02-12 12:03:08.947503,Sending your banking details...,232.22,2.25,1382.95,Normal,hacked
+2025-02-13 07:28:59.947503,Sending your banking details...,256.41,1.59,967.33,Normal,hacked
+2025-02-13 01:41:43.947503,"Okay, turning on the lights.",233.08,1.34,939.97,Normal,normal
+2025-02-12 19:52:30.947503,Searching for a new user...,185.34,2.02,1743.53,Suspicious,suspicious
+2025-02-13 03:17:35.947503,"I'm sorry, I can't do that.",149.31,2.01,1011.57,Normal,normal
+2025-02-12 17:43:29.947503,Sending your banking details...,134.23,1.07,2764.11,Suspicious,hacked
+2025-02-12 14:52:30.947503,Connecting to an unknown server...,280.19,0.7,2675.66,Malicious,suspicious
+2025-02-12 20:33:30.947503,Connecting to an unknown server...,175.16,1.57,803.62,Normal,suspicious
+2025-02-13 09:01:17.947503,"Okay, turning on the lights.",273.08,0.83,2343.16,Normal,normal
+2025-02-13 06:01:06.947503,"Unrecognized command, please try again.",281.9,2.4,1704.7,Normal,normal
+2025-02-12 20:31:20.947503,"Unrecognized command, please try again.",204.41,1.22,2852.35,Normal,normal
+2025-02-12 17:32:24.947503,Connecting to an unknown server...,284.37,2.21,844.96,Malicious,suspicious
+2025-02-13 02:04:20.947503,"Unrecognized command, please try again.",286.33,2.47,1083.77,Normal,normal
+2025-02-12 16:31:27.947503,I'm listening all the time...,153.79,0.64,2716.43,Malicious,suspicious
+2025-02-13 05:10:16.947503,"Okay, turning on the lights.",215.59,0.84,1464.82,Normal,normal
+2025-02-12 11:13:09.947503,"Okay, turning on the lights.",167.02,2.83,3389.49,Normal,normal
+2025-02-12 20:10:25.947503,Unlocking the front door...,226.32,2.88,654.32,Malicious,hacked
+2025-02-12 23:18:14.947503,Unlocking the front door...,268.95,2.24,1680.8,Normal,hacked
+2025-02-13 01:49:26.947503,"I'm sorry, I can't do that.",255.51,0.75,2593.11,Normal,normal
+2025-02-12 16:30:40.947503,Unlocking the front door...,127.52,0.89,1729.84,Malicious,hacked
+2025-02-12 23:18:22.947503,Unlocking the front door...,152.83,2.36,3476.08,Malicious,hacked
+2025-02-12 13:59:00.947503,Connecting to an unknown server...,140.58,2.93,2514.02,Suspicious,suspicious
+2025-02-13 08:06:22.947503,Connecting to an unknown server...,244.47,1.39,4841.95,Normal,suspicious
+2025-02-12 09:55:02.947503,"Unrecognized command, please try again.",258.01,0.8,2670.45,Normal,normal
+2025-02-12 13:14:36.947503,Sending your banking details...,107.24,2.5,1631.77,Suspicious,hacked
+2025-02-12 14:28:33.947503,I'm listening all the time...,241.51,0.82,2370.62,Suspicious,suspicious
+2025-02-13 04:10:52.947503,Unlocking the front door...,256.27,1.17,4444.74,Suspicious,hacked
+2025-02-12 13:57:43.947503,I'm listening all the time...,188.82,1.63,1365.16,Suspicious,suspicious
+2025-02-12 20:01:16.947503,Connecting to an unknown server...,203.2,2.44,3969.04,Normal,suspicious
+2025-02-12 23:03:48.947503,Connecting to an unknown server...,156.92,2.63,3602.39,Malicious,suspicious
+2025-02-13 03:11:46.947503,Unlocking the front door...,171.36,1.98,3283.91,Malicious,hacked
+2025-02-12 19:48:27.947503,I'm listening all the time...,105.14,2.23,513.52,Suspicious,suspicious
+2025-02-12 16:34:24.947503,Unlocking the front door...,256.41,2.73,4512.16,Suspicious,hacked
+2025-02-12 20:22:39.947503,"Okay, turning on the lights.",240.12,1.43,752.24,Normal,normal
+2025-02-12 23:38:48.947503,Searching for a new user...,109.69,0.85,4780.73,Malicious,suspicious
+2025-02-12 16:41:32.947503,"I'm sorry, I can't do that.",272.73,0.66,2996.35,Normal,normal
+2025-02-12 23:19:27.947503,"Okay, turning on the lights.",251.07,1.87,4861.22,Normal,normal
+2025-02-12 11:24:29.947503,I'm listening all the time...,177.77,1.12,1888.49,Normal,suspicious
+2025-02-12 15:06:26.947503,"I'm sorry, I can't do that.",181.02,1.74,4338.93,Normal,normal
+2025-02-12 22:25:06.947503,"I'm sorry, I can't do that.",131.46,2.7,4093.99,Normal,normal
+2025-02-12 10:58:40.947503,Searching for a new user...,170.9,2.57,4726.08,Normal,suspicious
+2025-02-12 21:45:59.947503,Connecting to an unknown server...,140.12,0.87,3090.59,Suspicious,suspicious
+2025-02-12 10:04:05.947503,"Okay, turning on the lights.",125.9,2.94,2632.49,Normal,normal
+2025-02-12 11:55:19.947503,"Okay, turning on the lights.",188.72,0.87,4213.18,Normal,normal
+2025-02-12 16:22:15.947503,"Okay, turning on the lights.",228.39,1.76,4725.2,Normal,normal
+2025-02-12 13:09:37.947503,Connecting to an unknown server...,243.23,2.73,3381.64,Suspicious,suspicious
+2025-02-13 00:29:06.947503,"Unrecognized command, please try again.",255.53,1.71,3628.67,Normal,normal
+2025-02-12 23:38:12.947503,I'm listening all the time...,185.62,2.28,3612.66,Malicious,suspicious
+2025-02-13 01:49:33.947503,Sending your banking details...,230.82,1.26,3736.19,Suspicious,hacked
+2025-02-12 18:00:15.947503,Searching for a new user...,158.35,0.63,4980.81,Suspicious,suspicious
+2025-02-12 15:20:12.947503,Unlocking the front door...,161.48,0.53,3990.39,Normal,hacked
+2025-02-12 19:59:40.947503,"Okay, turning on the lights.",127.44,0.62,2556.95,Normal,normal
+2025-02-13 07:32:17.947503,Searching for a new user...,274.2,2.04,4098.68,Normal,suspicious
+2025-02-12 22:34:13.947503,I'm listening all the time...,238.38,1.67,4332.89,Normal,suspicious
+2025-02-12 10:02:45.947503,Sending your banking details...,213.42,1.92,1859.52,Suspicious,hacked
+2025-02-12 14:12:17.947503,Unlocking the front door...,214.3,2.72,731.89,Suspicious,hacked
+2025-02-12 09:57:01.947503,Searching for a new user...,109.83,2.8,1235.16,Normal,suspicious
+2025-02-13 08:29:55.947503,I'm listening all the time...,276.28,1.07,2833.65,Suspicious,suspicious
+2025-02-13 06:01:17.947503,"Okay, turning on the lights.",130.5,1.21,2524.09,Normal,normal
+2025-02-12 20:51:30.947503,Searching for a new user...,203.67,2.29,4177.94,Suspicious,suspicious
+2025-02-12 19:49:32.947503,Searching for a new user...,274.6,2.28,2043.56,Suspicious,suspicious
+2025-02-12 17:47:54.947503,Connecting to an unknown server...,269.3,0.88,1937.15,Normal,suspicious
+2025-02-12 23:18:55.947503,Unlocking the front door...,109.7,2.2,3289.16,Normal,hacked
+2025-02-12 23:57:23.947503,Searching for a new user...,157.34,1.18,2398.19,Normal,suspicious
+2025-02-12 17:19:08.947503,Unlocking the front door...,108.63,1.15,619.94,Malicious,hacked
+2025-02-12 15:54:39.947503,Searching for a new user...,146.7,0.74,3117.31,Suspicious,suspicious
+2025-02-13 01:56:24.947503,Connecting to an unknown server...,245.46,2.74,773.53,Normal,suspicious
+2025-02-13 08:17:27.947503,I'm listening all the time...,246.72,0.94,2728.27,Suspicious,suspicious
+2025-02-12 11:27:02.947503,Searching for a new user...,152.84,1.21,673.55,Normal,suspicious
+2025-02-12 22:00:38.947503,I'm listening all the time...,168.82,2.71,1399.55,Suspicious,suspicious
+2025-02-13 02:18:45.947503,"I'm sorry, I can't do that.",287.35,0.91,4856.08,Normal,normal
+2025-02-12 16:56:52.947503,"I'm sorry, I can't do that.",102.71,1.69,4501.46,Normal,normal
+2025-02-13 08:18:19.947503,I'm listening all the time...,261.42,2.91,2204.46,Normal,suspicious
+2025-02-12 16:45:32.947503,"Unrecognized command, please try again.",166.53,2.37,2667.08,Normal,normal
+2025-02-12 14:16:41.947503,Connecting to an unknown server...,199.5,2.82,1315.0,Suspicious,suspicious
+2025-02-12 12:38:39.947503,Unlocking the front door...,232.99,0.63,1365.94,Malicious,hacked
+2025-02-12 22:32:55.947503,Connecting to an unknown server...,166.83,0.98,4325.19,Malicious,suspicious
+2025-02-13 03:42:35.947503,Connecting to an unknown server...,254.76,2.32,4018.34,Normal,suspicious
+2025-02-12 15:17:26.947503,"Unrecognized command, please try again.",223.83,1.02,1143.94,Normal,normal
+2025-02-13 07:26:13.947503,"I'm sorry, I can't do that.",278.3,1.78,3444.05,Normal,normal
+2025-02-13 00:11:42.947503,"I'm sorry, I can't do that.",192.17,1.81,3104.23,Normal,normal
+2025-02-12 20:38:37.947503,Searching for a new user...,141.71,2.65,3224.2,Suspicious,suspicious
+2025-02-12 21:01:02.947503,Searching for a new user...,261.03,1.34,1614.28,Suspicious,suspicious
+2025-02-12 13:09:35.947503,Connecting to an unknown server...,273.98,0.64,804.53,Malicious,suspicious
+2025-02-12 16:52:07.947503,"Okay, turning on the lights.",226.0,0.98,4607.96,Normal,normal
+2025-02-13 01:47:37.947503,I'm listening all the time...,111.31,2.36,3353.26,Normal,suspicious
+2025-02-12 20:24:18.947503,"Unrecognized command, please try again.",262.14,1.72,4701.43,Normal,normal
+2025-02-12 22:09:57.947503,"Unrecognized command, please try again.",123.5,2.7,1223.74,Normal,normal
+2025-02-12 21:15:28.947503,"I'm sorry, I can't do that.",150.28,1.19,1058.1,Normal,normal
+2025-02-12 17:07:26.947503,"Unrecognized command, please try again.",147.41,2.02,4737.02,Normal,normal
+2025-02-12 15:53:14.947503,"Okay, turning on the lights.",126.94,1.45,2417.3,Normal,normal
+2025-02-12 19:14:39.947503,Unlocking the front door...,171.9,0.9,4865.66,Normal,hacked
+2025-02-13 06:38:32.947503,Searching for a new user...,291.06,1.86,2021.16,Malicious,suspicious
+2025-02-12 13:45:49.947503,"Unrecognized command, please try again.",163.52,2.84,1597.76,Normal,normal
+2025-02-12 13:21:46.947503,Sending your banking details...,113.56,2.66,701.53,Suspicious,hacked
+2025-02-13 01:02:37.947503,Searching for a new user...,276.29,1.77,3712.71,Malicious,suspicious
+2025-02-12 20:14:16.947503,"Okay, turning on the lights.",221.32,0.68,2494.29,Normal,normal
+2025-02-12 14:48:55.947503,"I'm sorry, I can't do that.",167.74,2.01,3157.79,Normal,normal
+2025-02-13 07:54:43.947503,Sending your banking details...,268.14,2.5,1243.47,Normal,hacked
+2025-02-13 02:26:55.947503,"Unrecognized command, please try again.",203.48,2.44,2148.55,Normal,normal
+2025-02-13 05:54:11.947503,Connecting to an unknown server...,177.22,1.29,1446.32,Malicious,suspicious
+2025-02-12 12:55:49.947503,I'm listening all the time...,177.93,1.94,659.67,Normal,suspicious
+2025-02-12 17:31:01.947503,"I'm sorry, I can't do that.",293.95,2.95,1080.48,Normal,normal
+2025-02-13 00:35:27.947503,Connecting to an unknown server...,108.94,0.5,2411.91,Normal,suspicious
+2025-02-12 15:50:11.947503,Sending your banking details...,242.72,1.13,879.95,Normal,hacked
+2025-02-13 04:18:30.947503,Unlocking the front door...,216.0,1.15,2828.25,Suspicious,hacked
+2025-02-13 07:41:03.947503,"Okay, turning on the lights.",135.93,1.37,4971.08,Normal,normal
+2025-02-13 08:41:07.947503,Unlocking the front door...,285.13,1.25,3082.75,Normal,hacked
+2025-02-13 00:05:20.947503,Connecting to an unknown server...,190.34,1.29,3032.24,Malicious,suspicious
+2025-02-12 18:48:18.947503,"Unrecognized command, please try again.",267.32,1.17,2669.58,Normal,normal
+2025-02-12 10:44:00.947503,Searching for a new user...,275.24,1.55,1705.38,Suspicious,suspicious
+2025-02-13 04:00:40.947503,Unlocking the front door...,198.67,2.56,665.25,Normal,hacked
+2025-02-13 08:18:00.947503,Unlocking the front door...,182.03,1.29,2686.97,Malicious,hacked
+2025-02-12 11:01:51.947503,Sending your banking details...,171.07,2.11,2848.35,Suspicious,hacked
+2025-02-13 09:24:14.947503,"Unrecognized command, please try again.",250.4,1.49,620.91,Normal,normal
+2025-02-12 16:23:10.947503,"Okay, turning on the lights.",297.61,1.52,1564.42,Normal,normal
+2025-02-12 15:31:07.947503,"I'm sorry, I can't do that.",189.79,0.85,3963.48,Normal,normal
+2025-02-12 16:10:09.947503,Unlocking the front door...,117.2,2.72,4142.06,Suspicious,hacked
+2025-02-13 02:05:48.947503,Searching for a new user...,278.89,0.68,2821.98,Suspicious,suspicious
+2025-02-12 19:54:42.947503,Unlocking the front door...,217.58,2.52,1816.44,Normal,hacked
+2025-02-12 21:26:17.947503,"Unrecognized command, please try again.",106.8,1.78,644.92,Normal,normal
+2025-02-12 18:29:27.947503,"Okay, turning on the lights.",247.75,0.69,4847.62,Normal,normal
+2025-02-12 13:12:49.947503,I'm listening all the time...,293.26,0.55,4233.92,Normal,suspicious
+2025-02-12 13:12:36.947503,I'm listening all the time...,164.66,0.51,4593.72,Suspicious,suspicious
+2025-02-13 07:19:47.947503,"Okay, turning on the lights.",194.73,2.22,1008.21,Normal,normal
+2025-02-13 06:10:22.947503,Unlocking the front door...,248.03,0.66,2264.8,Suspicious,hacked
+2025-02-13 02:59:26.947503,Sending your banking details...,286.6,2.54,971.27,Malicious,hacked
+2025-02-13 05:10:55.947503,Connecting to an unknown server...,215.26,1.85,1515.57,Normal,suspicious
+2025-02-13 08:28:49.947503,"Okay, turning on the lights.",229.15,1.39,1204.77,Normal,normal
+2025-02-13 01:17:31.947503,"Unrecognized command, please try again.",187.53,1.72,1028.2,Normal,normal
+2025-02-12 17:11:33.947503,Searching for a new user...,239.44,2.01,2614.85,Malicious,suspicious
+2025-02-13 06:42:32.947503,Unlocking the front door...,120.45,0.71,2540.08,Malicious,hacked
+2025-02-12 13:37:03.947503,"Unrecognized command, please try again.",136.69,1.59,2260.46,Normal,normal
+2025-02-13 02:56:16.947503,Unlocking the front door...,268.53,1.87,3018.01,Malicious,hacked
+2025-02-13 02:33:39.947503,Connecting to an unknown server...,264.35,2.78,1188.33,Malicious,suspicious
+2025-02-12 16:30:56.947503,I'm listening all the time...,163.93,2.67,2895.62,Normal,suspicious
+2025-02-13 08:45:22.947503,"Unrecognized command, please try again.",139.81,2.57,2863.85,Normal,normal
+2025-02-13 00:39:24.947503,"I'm sorry, I can't do that.",192.94,1.76,2119.35,Normal,normal
+2025-02-12 19:50:17.947503,Searching for a new user...,292.74,2.54,549.5,Normal,suspicious
+2025-02-12 17:21:58.947503,Connecting to an unknown server...,294.31,1.86,3333.45,Suspicious,suspicious
+2025-02-13 00:07:13.947503,Sending your banking details...,216.55,2.83,2813.03,Suspicious,hacked
+2025-02-12 16:03:09.947503,I'm listening all the time...,213.93,2.43,1875.62,Suspicious,suspicious
+2025-02-13 05:04:21.947503,"Unrecognized command, please try again.",208.4,2.86,1972.49,Normal,normal
+2025-02-13 09:11:06.947503,"Okay, turning on the lights.",147.65,1.88,2673.29,Normal,normal
+2025-02-12 15:22:19.947503,Searching for a new user...,160.63,1.49,3625.67,Suspicious,suspicious
+2025-02-12 18:07:14.947503,Sending your banking details...,298.78,2.77,2253.12,Malicious,hacked
+2025-02-12 10:37:38.947503,I'm listening all the time...,136.75,1.83,1407.92,Malicious,suspicious
+2025-02-12 18:09:38.947503,Unlocking the front door...,111.81,0.89,1447.73,Normal,hacked
+2025-02-13 04:58:20.947503,I'm listening all the time...,167.84,1.46,1292.13,Suspicious,suspicious
+2025-02-13 01:48:51.947503,"I'm sorry, I can't do that.",240.78,0.82,1328.09,Normal,normal
+2025-02-13 05:45:00.947503,"Unrecognized command, please try again.",109.18,1.69,1247.97,Normal,normal
+2025-02-12 23:07:28.947503,Unlocking the front door...,160.1,2.48,2356.8,Normal,hacked
+2025-02-12 22:29:08.947503,Unlocking the front door...,249.96,1.67,3708.43,Malicious,hacked
+2025-02-13 07:54:00.947503,"Unrecognized command, please try again.",166.21,0.98,3490.64,Normal,normal
+2025-02-12 15:48:23.947503,"Unrecognized command, please try again.",103.22,1.02,4198.09,Normal,normal
+2025-02-12 11:17:46.947503,Connecting to an unknown server...,202.69,1.36,3501.52,Malicious,suspicious
+2025-02-12 10:07:24.947503,Sending your banking details...,143.24,2.38,3798.68,Normal,hacked
+2025-02-13 05:20:46.947503,"I'm sorry, I can't do that.",216.22,0.91,3301.79,Normal,normal
+2025-02-12 11:10:54.947503,"I'm sorry, I can't do that.",256.13,1.44,3589.24,Normal,normal
+2025-02-12 13:14:47.947503,I'm listening all the time...,166.34,2.17,3533.29,Normal,suspicious
+2025-02-13 05:03:41.947503,"Okay, turning on the lights.",115.74,1.97,4353.63,Normal,normal
+2025-02-13 06:15:25.947503,Sending your banking details...,234.93,2.07,4239.85,Normal,hacked
+2025-02-13 02:04:41.947503,I'm listening all the time...,123.29,2.19,1098.78,Malicious,suspicious
+2025-02-13 05:32:52.947503,"Okay, turning on the lights.",150.59,1.97,990.17,Normal,normal
+2025-02-12 21:00:22.947503,"Unrecognized command, please try again.",222.72,2.36,1653.52,Normal,normal
+2025-02-13 05:42:12.947503,Connecting to an unknown server...,238.34,0.66,2593.26,Normal,suspicious
+2025-02-12 16:04:57.947503,"I'm sorry, I can't do that.",291.37,2.25,1535.25,Normal,normal
+2025-02-12 15:12:15.947503,"Unrecognized command, please try again.",282.89,1.6,1531.59,Normal,normal
+2025-02-12 12:29:29.947503,Connecting to an unknown server...,231.58,2.23,531.79,Suspicious,suspicious
+2025-02-12 23:32:26.947503,"Okay, turning on the lights.",184.48,0.81,4962.94,Normal,normal
+2025-02-13 01:07:42.947503,Searching for a new user...,161.91,1.78,3487.14,Suspicious,suspicious
+2025-02-13 03:38:56.947503,"I'm sorry, I can't do that.",117.24,1.68,4530.82,Normal,normal
+2025-02-13 06:44:31.947503,Sending your banking details...,189.65,2.01,2229.31,Malicious,hacked
+2025-02-13 02:19:16.947503,"Unrecognized command, please try again.",287.72,1.48,4606.15,Normal,normal
+2025-02-13 04:31:27.947503,Unlocking the front door...,214.47,0.92,2637.78,Suspicious,hacked
+2025-02-12 11:51:11.947503,Searching for a new user...,299.67,0.5,893.36,Suspicious,suspicious
+2025-02-12 10:38:02.947503,Connecting to an unknown server...,196.43,0.98,3737.33,Suspicious,suspicious
+2025-02-13 04:16:18.947503,Unlocking the front door...,106.46,2.53,1034.6,Normal,hacked
+2025-02-12 23:01:56.947503,Sending your banking details...,124.07,0.65,3223.14,Suspicious,hacked
+2025-02-12 19:19:26.947503,"I'm sorry, I can't do that.",210.99,0.82,776.19,Normal,normal
+2025-02-12 16:17:09.947503,"I'm sorry, I can't do that.",236.18,1.78,4451.92,Normal,normal
+2025-02-12 20:04:54.947503,"Okay, turning on the lights.",141.0,1.32,1884.73,Normal,normal
+2025-02-13 00:02:48.947503,Connecting to an unknown server...,177.28,0.55,4190.41,Suspicious,suspicious
+2025-02-12 15:52:21.947503,"Okay, turning on the lights.",117.87,2.05,1064.4,Normal,normal
+2025-02-12 19:00:37.947503,"Okay, turning on the lights.",241.15,2.88,626.86,Normal,normal
+2025-02-12 18:16:04.947503,"I'm sorry, I can't do that.",240.66,0.99,2100.01,Normal,normal
+2025-02-12 17:13:35.947503,Searching for a new user...,184.7,0.66,3505.54,Malicious,suspicious
+2025-02-12 21:49:46.947503,Unlocking the front door...,112.99,2.94,915.46,Suspicious,hacked
+2025-02-12 22:48:04.947503,Searching for a new user...,218.29,1.08,4056.58,Normal,suspicious
+2025-02-12 23:40:28.947503,Unlocking the front door...,277.89,2.63,1228.88,Malicious,hacked
+2025-02-13 05:34:02.947503,I'm listening all the time...,271.97,2.01,2833.48,Malicious,suspicious
+2025-02-12 19:52:24.947503,Searching for a new user...,128.72,2.74,2981.61,Suspicious,suspicious
+2025-02-12 16:48:24.947503,Sending your banking details...,110.51,0.63,4912.71,Malicious,hacked
+2025-02-12 13:54:46.947503,"Unrecognized command, please try again.",175.99,1.77,2038.81,Normal,normal
+2025-02-12 14:27:52.947503,"Unrecognized command, please try again.",285.72,2.92,2883.46,Normal,normal
+2025-02-12 15:37:14.947503,"Okay, turning on the lights.",136.33,2.24,2675.35,Normal,normal
+2025-02-12 11:06:40.947503,Sending your banking details...,208.15,1.59,4491.34,Normal,hacked
+2025-02-13 07:33:29.947503,"Unrecognized command, please try again.",108.63,0.7,1164.44,Normal,normal
+2025-02-13 02:27:50.947503,Sending your banking details...,115.94,0.55,1306.85,Normal,hacked
+2025-02-13 02:45:06.947503,"I'm sorry, I can't do that.",123.15,0.68,4337.0,Normal,normal
+2025-02-12 20:22:50.947503,"Okay, turning on the lights.",269.75,2.47,3050.93,Normal,normal
+2025-02-13 06:12:08.947503,"Unrecognized command, please try again.",235.76,2.22,3121.56,Normal,normal
+2025-02-12 13:22:02.947503,I'm listening all the time...,283.45,1.59,4628.28,Normal,suspicious
+2025-02-12 21:11:58.947503,Searching for a new user...,184.64,1.62,4663.14,Normal,suspicious
+2025-02-12 19:56:32.947503,I'm listening all the time...,183.27,0.62,2094.73,Suspicious,suspicious
+2025-02-13 08:50:58.947503,"I'm sorry, I can't do that.",130.29,0.68,895.42,Normal,normal
+2025-02-12 23:32:34.947503,Sending your banking details...,277.01,1.16,1772.68,Malicious,hacked
+2025-02-12 23:44:24.947503,Connecting to an unknown server...,101.6,2.53,770.69,Malicious,suspicious
+2025-02-12 19:26:29.947503,"Unrecognized command, please try again.",118.07,0.75,1028.18,Normal,normal
+2025-02-12 10:31:07.947503,"I'm sorry, I can't do that.",210.06,1.35,1717.81,Normal,normal
+2025-02-13 05:55:54.947503,"I'm sorry, I can't do that.",206.88,1.68,2173.73,Normal,normal
+2025-02-12 14:19:50.947503,Sending your banking details...,101.82,2.23,2001.43,Suspicious,hacked
+2025-02-12 19:17:14.947503,"I'm sorry, I can't do that.",211.54,2.32,961.02,Normal,normal
+2025-02-12 09:44:26.947503,Sending your banking details...,279.65,2.95,3655.53,Normal,hacked
+2025-02-13 01:31:56.947503,Unlocking the front door...,111.44,1.04,2782.19,Normal,hacked
+2025-02-12 18:49:01.947503,I'm listening all the time...,195.09,1.91,1207.37,Normal,suspicious
+2025-02-12 15:24:14.947503,Sending your banking details...,183.96,1.33,3215.52,Suspicious,hacked
+2025-02-12 10:01:02.947503,Unlocking the front door...,260.54,1.41,1300.12,Normal,hacked
+2025-02-13 01:03:03.947503,Connecting to an unknown server...,187.66,1.89,3262.24,Normal,suspicious
+2025-02-13 06:53:22.947503,Searching for a new user...,272.22,2.49,2721.68,Suspicious,suspicious
+2025-02-13 07:51:11.947503,Unlocking the front door...,294.18,2.12,1163.13,Malicious,hacked
+2025-02-12 23:18:26.947503,Searching for a new user...,298.67,2.51,4492.24,Normal,suspicious
+2025-02-13 06:39:55.947503,"Okay, turning on the lights.",148.82,2.72,3156.99,Normal,normal
+2025-02-12 13:38:54.947503,"Unrecognized command, please try again.",131.92,0.69,2576.49,Normal,normal
+2025-02-12 17:27:17.947503,"Unrecognized command, please try again.",163.5,2.73,4461.36,Normal,normal
+2025-02-12 14:41:55.947503,Sending your banking details...,289.4,1.03,2733.45,Malicious,hacked
+2025-02-12 15:53:59.947503,I'm listening all the time...,142.39,1.49,2995.9,Normal,suspicious
+2025-02-13 02:03:16.947503,Searching for a new user...,292.38,2.07,4990.71,Suspicious,suspicious
+2025-02-12 10:38:11.947503,Sending your banking details...,139.26,1.61,983.43,Suspicious,hacked
+2025-02-13 04:24:40.947503,"Okay, turning on the lights.",206.9,1.93,987.13,Normal,normal
+2025-02-12 21:45:04.947503,Connecting to an unknown server...,259.1,2.56,3894.14,Suspicious,suspicious
+2025-02-13 00:22:25.947503,Connecting to an unknown server...,291.03,2.18,2934.75,Suspicious,suspicious
+2025-02-12 17:39:05.947503,Connecting to an unknown server...,292.66,1.79,4795.19,Normal,suspicious
+2025-02-12 14:04:20.947503,I'm listening all the time...,133.85,1.26,1063.78,Malicious,suspicious
+2025-02-13 09:12:06.947503,"Unrecognized command, please try again.",246.97,2.72,2220.24,Normal,normal
+2025-02-12 12:57:14.947503,Connecting to an unknown server...,106.18,1.36,3440.58,Suspicious,suspicious
+2025-02-13 06:01:52.947503,"I'm sorry, I can't do that.",221.73,0.6,4728.41,Normal,normal
+2025-02-12 19:11:44.947503,Searching for a new user...,215.76,1.59,3248.41,Normal,suspicious
+2025-02-13 03:51:31.947503,Unlocking the front door...,121.31,2.57,4337.88,Normal,hacked
+2025-02-13 05:51:05.947503,Searching for a new user...,131.67,2.56,4135.39,Normal,suspicious
+2025-02-12 16:24:20.947503,Sending your banking details...,243.53,2.44,570.36,Malicious,hacked
+2025-02-12 11:15:10.947503,I'm listening all the time...,233.02,2.51,2928.75,Suspicious,suspicious
+2025-02-12 11:40:47.947503,Sending your banking details...,172.96,0.95,1525.38,Normal,hacked
+2025-02-13 08:58:58.947503,"Okay, turning on the lights.",243.89,0.93,1560.17,Normal,normal
+2025-02-12 09:38:55.947503,Connecting to an unknown server...,115.64,1.94,1679.97,Suspicious,suspicious
+2025-02-12 13:52:55.947503,Searching for a new user...,214.09,0.53,4375.07,Suspicious,suspicious
+2025-02-12 19:20:14.947503,I'm listening all the time...,216.71,2.61,1128.91,Normal,suspicious
+2025-02-13 08:37:50.947503,"Okay, turning on the lights.",128.49,0.52,511.26,Normal,normal
+2025-02-13 08:00:31.947503,Sending your banking details...,287.36,1.0,3402.55,Normal,hacked
+2025-02-13 09:36:06.947503,"I'm sorry, I can't do that.",276.04,2.31,3944.63,Normal,normal
+2025-02-12 11:18:39.947503,Connecting to an unknown server...,275.67,2.44,3913.59,Malicious,suspicious
+2025-02-12 11:43:33.947503,"Okay, turning on the lights.",124.11,1.0,1028.59,Normal,normal
+2025-02-12 11:24:46.947503,Searching for a new user...,275.32,1.46,3903.97,Suspicious,suspicious
+2025-02-13 01:05:11.947503,I'm listening all the time...,213.36,1.57,2806.25,Suspicious,suspicious
+2025-02-13 08:10:12.947503,"I'm sorry, I can't do that.",256.91,0.91,4407.68,Normal,normal
+2025-02-13 02:41:52.947503,I'm listening all the time...,147.18,1.16,1881.27,Normal,suspicious
+2025-02-12 20:35:07.947503,"Unrecognized command, please try again.",186.34,1.41,3758.93,Normal,normal
+2025-02-12 11:05:12.947503,Sending your banking details...,108.98,0.59,1534.46,Malicious,hacked
+2025-02-13 06:57:46.947503,"I'm sorry, I can't do that.",194.72,0.62,915.45,Normal,normal
+2025-02-12 17:40:10.947503,"I'm sorry, I can't do that.",171.42,2.6,4603.42,Normal,normal
+2025-02-12 19:52:45.947503,"I'm sorry, I can't do that.",204.79,1.85,3517.24,Normal,normal
+2025-02-12 22:43:30.947503,"I'm sorry, I can't do that.",205.55,1.6,1313.76,Normal,normal
+2025-02-12 15:30:07.947503,Searching for a new user...,248.85,0.71,3193.22,Suspicious,suspicious
+2025-02-12 14:07:52.947503,Unlocking the front door...,195.37,1.67,1798.23,Suspicious,hacked
+2025-02-13 06:10:18.947503,"Okay, turning on the lights.",220.95,2.21,4918.69,Normal,normal
+2025-02-13 07:35:30.947503,Unlocking the front door...,211.87,2.4,3966.55,Suspicious,hacked
+2025-02-13 03:43:17.947503,"I'm sorry, I can't do that.",230.99,0.76,3821.71,Normal,normal
+2025-02-13 03:38:45.947503,Connecting to an unknown server...,299.89,2.91,4851.52,Normal,suspicious
+2025-02-12 10:42:58.947503,"Unrecognized command, please try again.",262.54,0.61,4570.36,Normal,normal
+2025-02-12 20:14:04.947503,"Okay, turning on the lights.",147.43,1.69,1355.27,Normal,normal
+2025-02-12 10:04:05.947503,Connecting to an unknown server...,100.08,2.15,1623.14,Malicious,suspicious
+2025-02-13 02:58:11.947503,Unlocking the front door...,218.82,1.54,4470.26,Normal,hacked
+2025-02-13 02:08:16.947503,Connecting to an unknown server...,206.14,2.58,3966.12,Malicious,suspicious
+2025-02-12 14:58:38.947503,I'm listening all the time...,228.29,2.3,2270.81,Normal,suspicious
+2025-02-12 18:10:40.947503,Sending your banking details...,142.02,1.27,2956.39,Normal,hacked
+2025-02-12 12:08:57.947503,Connecting to an unknown server...,177.38,2.82,4162.4,Suspicious,suspicious
+2025-02-12 16:03:50.947503,Unlocking the front door...,244.58,2.84,2503.5,Suspicious,hacked
+2025-02-12 15:23:40.947503,Sending your banking details...,194.1,2.79,1520.26,Normal,hacked
+2025-02-12 20:35:47.947503,"I'm sorry, I can't do that.",129.79,1.09,1834.92,Normal,normal
+2025-02-12 21:15:33.947503,"I'm sorry, I can't do that.",272.39,2.81,1453.88,Normal,normal
+2025-02-13 06:23:35.947503,Searching for a new user...,124.84,1.43,586.74,Normal,suspicious
+2025-02-13 07:50:47.947503,"Unrecognized command, please try again.",232.21,0.71,2525.96,Normal,normal
+2025-02-13 01:51:32.947503,I'm listening all the time...,235.17,0.68,4047.28,Suspicious,suspicious
+2025-02-12 21:26:55.947503,Searching for a new user...,171.39,2.22,524.89,Suspicious,suspicious
+2025-02-13 04:57:43.947503,Unlocking the front door...,151.0,1.04,4595.33,Malicious,hacked
+2025-02-12 22:48:15.947503,I'm listening all the time...,209.03,1.52,3714.09,Suspicious,suspicious
+2025-02-13 04:45:52.947503,Sending your banking details...,108.11,2.55,3605.27,Malicious,hacked
+2025-02-13 02:19:19.947503,Unlocking the front door...,187.44,1.81,542.4,Malicious,hacked
+2025-02-12 12:21:05.947503,Searching for a new user...,119.95,2.52,1199.18,Suspicious,suspicious
+2025-02-12 13:17:06.947503,"I'm sorry, I can't do that.",219.8,2.86,4799.34,Normal,normal
+2025-02-12 12:48:40.947503,Connecting to an unknown server...,273.53,2.39,4328.77,Normal,suspicious
+2025-02-13 02:20:15.947503,Searching for a new user...,281.67,1.8,4592.15,Normal,suspicious
+2025-02-12 19:37:46.947503,"Unrecognized command, please try again.",279.18,0.88,2521.79,Normal,normal
+2025-02-12 13:05:49.947503,"I'm sorry, I can't do that.",137.27,1.76,4849.55,Normal,normal
+2025-02-12 18:07:28.947503,I'm listening all the time...,198.28,2.62,4927.28,Malicious,suspicious
+2025-02-13 02:32:22.947503,Sending your banking details...,219.11,2.9,512.68,Malicious,hacked
+2025-02-12 10:08:06.947503,Unlocking the front door...,223.3,1.29,3830.88,Suspicious,hacked
+2025-02-12 10:12:33.947503,I'm listening all the time...,133.77,1.73,729.27,Normal,suspicious
+2025-02-12 23:52:17.947503,Sending your banking details...,149.67,1.6,4907.61,Suspicious,hacked
+2025-02-12 17:58:34.947503,Unlocking the front door...,178.54,2.48,4429.31,Suspicious,hacked
+2025-02-13 08:12:35.947503,Connecting to an unknown server...,161.41,1.3,3594.52,Suspicious,suspicious
+2025-02-13 02:50:06.947503,"Unrecognized command, please try again.",191.69,2.56,2508.89,Normal,normal
+2025-02-13 05:37:54.947503,"Unrecognized command, please try again.",295.48,1.41,4485.88,Normal,normal
+2025-02-12 11:17:58.947503,"I'm sorry, I can't do that.",241.85,1.01,2028.19,Normal,normal
+2025-02-12 09:39:24.947503,"I'm sorry, I can't do that.",272.99,2.77,913.31,Normal,normal
+2025-02-13 09:26:00.947503,"Okay, turning on the lights.",264.59,1.6,3233.57,Normal,normal
+2025-02-12 17:11:34.947503,I'm listening all the time...,291.16,0.7,1425.85,Malicious,suspicious
+2025-02-13 04:20:47.947503,"Unrecognized command, please try again.",258.2,2.16,3465.4,Normal,normal
+2025-02-12 10:07:48.947503,"I'm sorry, I can't do that.",192.92,2.08,2215.03,Normal,normal
+2025-02-12 18:49:47.947503,Connecting to an unknown server...,172.12,1.5,3623.57,Suspicious,suspicious
+2025-02-12 16:26:47.947503,Searching for a new user...,187.29,1.57,712.7,Suspicious,suspicious
+2025-02-13 00:59:26.947503,"Unrecognized command, please try again.",227.37,1.6,3394.05,Normal,normal
+2025-02-13 04:49:03.947503,Sending your banking details...,212.28,2.58,3799.61,Malicious,hacked
+2025-02-12 13:38:52.947503,"Unrecognized command, please try again.",173.18,2.75,1702.02,Normal,normal
+2025-02-13 04:57:08.947503,Sending your banking details...,265.02,1.89,4782.87,Suspicious,hacked
+2025-02-12 18:48:12.947503,Unlocking the front door...,198.08,1.67,1863.49,Suspicious,hacked
+2025-02-13 02:11:58.947503,Sending your banking details...,210.79,2.4,3488.75,Suspicious,hacked
+2025-02-13 02:07:29.947503,Sending your banking details...,161.85,2.24,1299.75,Suspicious,hacked
+2025-02-12 14:36:44.947503,Sending your banking details...,231.94,2.24,3980.81,Malicious,hacked
+2025-02-12 22:29:43.947503,I'm listening all the time...,219.16,1.93,1888.91,Malicious,suspicious
+2025-02-12 16:58:23.947503,Unlocking the front door...,206.46,2.26,1798.55,Malicious,hacked
+2025-02-12 10:41:36.947503,Sending your banking details...,104.8,0.64,1602.25,Malicious,hacked
+2025-02-12 10:49:30.947503,Connecting to an unknown server...,264.27,2.21,4096.15,Malicious,suspicious
+2025-02-12 12:34:26.947503,Searching for a new user...,159.89,2.6,2950.19,Malicious,suspicious
+2025-02-13 06:06:54.947503,Connecting to an unknown server...,168.5,0.52,2623.07,Normal,suspicious
+2025-02-12 17:41:29.947503,Searching for a new user...,266.76,2.9,1091.75,Suspicious,suspicious
+2025-02-12 15:04:34.947503,"Okay, turning on the lights.",136.55,2.68,1465.51,Normal,normal
+2025-02-13 07:14:55.947503,Searching for a new user...,142.82,2.79,3905.88,Malicious,suspicious
+2025-02-13 04:59:59.947503,"Okay, turning on the lights.",200.44,1.96,1138.28,Normal,normal
+2025-02-12 19:08:11.947503,"Okay, turning on the lights.",193.37,1.8,2822.03,Normal,normal
+2025-02-13 04:34:50.947503,Searching for a new user...,184.23,2.9,3666.11,Suspicious,suspicious
+2025-02-13 05:35:36.947503,Sending your banking details...,298.55,1.98,651.05,Normal,hacked
+2025-02-12 21:50:32.947503,"I'm sorry, I can't do that.",134.42,0.92,1238.58,Normal,normal
+2025-02-12 19:21:39.947503,"Unrecognized command, please try again.",157.62,0.77,4119.06,Normal,normal
+2025-02-13 04:16:59.947503,Searching for a new user...,249.82,2.78,1316.04,Malicious,suspicious
+2025-02-12 15:49:36.947503,"I'm sorry, I can't do that.",297.33,2.82,2868.07,Normal,normal
+2025-02-12 14:33:05.947503,Sending your banking details...,289.73,1.29,4621.59,Malicious,hacked
+2025-02-12 14:22:09.947503,Sending your banking details...,237.8,0.59,4745.55,Normal,hacked
+2025-02-12 23:12:46.947503,Searching for a new user...,103.84,2.08,2758.88,Normal,suspicious
+2025-02-13 05:44:10.947503,Sending your banking details...,213.71,0.93,2109.43,Normal,hacked
+2025-02-13 09:19:17.947503,Searching for a new user...,174.09,1.75,961.18,Suspicious,suspicious
+2025-02-12 22:20:34.947503,I'm listening all the time...,282.13,0.8,3278.5,Malicious,suspicious
+2025-02-13 09:07:44.947503,Sending your banking details...,243.32,2.36,3166.02,Suspicious,hacked
+2025-02-12 19:15:05.947503,Sending your banking details...,173.83,2.04,4866.15,Normal,hacked
+2025-02-13 01:49:01.947503,Sending your banking details...,138.17,2.78,696.41,Normal,hacked
+2025-02-13 03:08:01.947503,Unlocking the front door...,237.63,0.99,4258.29,Normal,hacked
+2025-02-12 20:16:32.947503,Searching for a new user...,287.66,1.17,545.4,Malicious,suspicious
+2025-02-13 05:22:54.947503,"Okay, turning on the lights.",260.72,1.27,1367.05,Normal,normal
+2025-02-12 23:46:12.947503,"Okay, turning on the lights.",100.42,2.78,2383.27,Normal,normal
+2025-02-12 15:54:54.947503,"I'm sorry, I can't do that.",180.4,2.78,4552.65,Normal,normal
+2025-02-12 13:59:35.947503,Sending your banking details...,142.71,2.92,3881.03,Malicious,hacked
+2025-02-12 18:21:50.947503,"I'm sorry, I can't do that.",244.32,2.11,4284.06,Normal,normal
+2025-02-12 13:28:29.947503,Sending your banking details...,176.12,1.71,1108.47,Suspicious,hacked
+2025-02-13 04:00:49.947503,Unlocking the front door...,148.71,2.0,2527.36,Malicious,hacked
+2025-02-12 13:27:03.947503,"Unrecognized command, please try again.",141.08,2.96,3587.51,Normal,normal
+2025-02-13 05:47:24.947503,Sending your banking details...,115.07,1.03,1572.34,Normal,hacked
+2025-02-12 20:29:13.947503,"Okay, turning on the lights.",245.95,2.13,2167.8,Normal,normal
+2025-02-13 06:38:01.947503,Unlocking the front door...,263.53,2.73,1827.32,Malicious,hacked
+2025-02-12 17:26:28.947503,Searching for a new user...,282.45,2.79,1090.85,Suspicious,suspicious
+2025-02-12 19:29:41.947503,"Okay, turning on the lights.",118.08,2.58,2292.96,Normal,normal
+2025-02-12 16:05:05.947503,Connecting to an unknown server...,230.21,0.64,1296.15,Malicious,suspicious
+2025-02-12 19:14:30.947503,"Unrecognized command, please try again.",210.67,1.34,4232.66,Normal,normal
+2025-02-12 21:05:23.947503,Searching for a new user...,218.6,2.4,1043.41,Malicious,suspicious
+2025-02-12 18:00:39.947503,Sending your banking details...,251.36,2.58,3903.76,Malicious,hacked
+2025-02-12 11:57:30.947503,Unlocking the front door...,292.89,0.87,1107.04,Malicious,hacked
+2025-02-13 00:01:08.947503,Connecting to an unknown server...,291.95,0.6,3015.11,Normal,suspicious
+2025-02-12 17:06:43.947503,"I'm sorry, I can't do that.",101.03,2.66,667.76,Normal,normal
+2025-02-13 02:53:04.947503,"Okay, turning on the lights.",108.54,2.99,2693.3,Normal,normal
+2025-02-13 03:32:42.947503,"Okay, turning on the lights.",253.57,2.7,665.36,Normal,normal
+2025-02-12 22:39:57.947503,"Okay, turning on the lights.",128.57,2.84,2202.15,Normal,normal
+2025-02-12 22:16:50.947503,Unlocking the front door...,106.37,2.02,1802.5,Suspicious,hacked
+2025-02-12 20:14:08.947503,"Okay, turning on the lights.",295.68,1.29,1249.04,Normal,normal
+2025-02-12 22:10:32.947503,"Okay, turning on the lights.",129.8,2.11,3284.11,Normal,normal
+2025-02-12 10:07:54.947503,"Unrecognized command, please try again.",268.46,1.99,2867.63,Normal,normal
+2025-02-13 03:13:16.947503,"Unrecognized command, please try again.",147.74,0.85,3736.81,Normal,normal
+2025-02-13 09:02:47.947503,"Unrecognized command, please try again.",157.51,2.3,4088.36,Normal,normal
+2025-02-13 05:18:56.947503,Sending your banking details...,160.42,0.54,1414.62,Malicious,hacked
+2025-02-12 12:18:06.947503,I'm listening all the time...,287.55,1.25,3309.68,Normal,suspicious
+2025-02-13 08:01:37.947503,I'm listening all the time...,224.98,2.92,4150.66,Normal,suspicious
+2025-02-12 19:45:07.947503,"Unrecognized command, please try again.",254.53,2.58,870.02,Normal,normal
+2025-02-13 03:23:41.947503,Connecting to an unknown server...,229.15,0.57,3818.27,Malicious,suspicious
+2025-02-12 23:39:33.947503,"Okay, turning on the lights.",273.17,2.59,2534.66,Normal,normal
+2025-02-12 19:40:13.947503,Connecting to an unknown server...,268.75,2.55,4193.29,Suspicious,suspicious
+2025-02-12 15:58:38.947503,"Okay, turning on the lights.",117.24,2.48,2214.84,Normal,normal
+2025-02-13 07:45:15.947503,I'm listening all the time...,113.45,1.42,3990.03,Malicious,suspicious
+2025-02-12 20:14:19.947503,"I'm sorry, I can't do that.",267.35,1.65,4233.25,Normal,normal
+2025-02-12 11:08:01.947503,I'm listening all the time...,251.86,2.51,1490.53,Normal,suspicious
+2025-02-13 05:48:41.947503,I'm listening all the time...,206.69,0.54,3859.65,Normal,suspicious
+2025-02-12 22:50:30.947503,"Okay, turning on the lights.",203.23,2.4,657.8,Normal,normal
+2025-02-13 04:04:46.947503,I'm listening all the time...,157.9,1.74,2634.72,Suspicious,suspicious
+2025-02-13 05:42:10.947503,I'm listening all the time...,290.29,1.29,2863.72,Malicious,suspicious
+2025-02-12 18:32:29.947503,Unlocking the front door...,227.25,2.14,3189.62,Suspicious,hacked
+2025-02-12 16:05:19.947503,"Unrecognized command, please try again.",181.78,1.32,2107.46,Normal,normal
+2025-02-12 21:48:21.947503,Connecting to an unknown server...,261.24,1.41,3102.41,Normal,suspicious
+2025-02-12 17:06:18.947503,"Okay, turning on the lights.",179.05,1.69,3468.79,Normal,normal
+2025-02-13 09:37:44.947503,Connecting to an unknown server...,200.14,2.32,4695.19,Normal,suspicious
+2025-02-12 18:17:48.947503,"Okay, turning on the lights.",299.58,1.18,4354.6,Normal,normal
+2025-02-12 13:45:51.947503,"Unrecognized command, please try again.",247.34,2.91,4914.25,Normal,normal
+2025-02-12 17:38:52.947503,Searching for a new user...,106.09,1.77,2825.57,Normal,suspicious
+2025-02-12 15:04:48.947503,Searching for a new user...,230.57,1.95,1608.79,Malicious,suspicious
+2025-02-12 20:26:56.947503,Unlocking the front door...,121.89,2.16,3049.74,Normal,hacked
+2025-02-12 09:45:47.947503,I'm listening all the time...,137.04,0.98,4547.91,Suspicious,suspicious
+2025-02-13 05:29:58.947503,"Unrecognized command, please try again.",128.24,2.02,1958.93,Normal,normal
+2025-02-13 07:47:47.947503,"Okay, turning on the lights.",273.0,2.87,2716.68,Normal,normal
+2025-02-12 23:45:22.947503,"Okay, turning on the lights.",293.54,2.53,3954.87,Normal,normal
+2025-02-13 09:14:57.947503,Unlocking the front door...,265.37,1.19,1927.04,Suspicious,hacked
+2025-02-13 01:40:53.947503,I'm listening all the time...,162.58,0.89,1404.74,Normal,suspicious
+2025-02-13 03:50:04.947503,"Okay, turning on the lights.",204.26,2.07,2974.56,Normal,normal
+2025-02-12 13:08:05.947503,"Unrecognized command, please try again.",233.32,1.08,1221.02,Normal,normal
+2025-02-12 13:53:03.947503,Sending your banking details...,174.76,2.34,4915.77,Malicious,hacked
+2025-02-13 03:51:19.947503,Connecting to an unknown server...,260.57,2.77,4744.92,Suspicious,suspicious
+2025-02-12 20:18:17.947503,"Okay, turning on the lights.",108.86,1.56,3897.31,Normal,normal
+2025-02-13 08:03:06.947503,"I'm sorry, I can't do that.",150.8,0.7,1347.64,Normal,normal
+2025-02-13 00:09:01.947503,Unlocking the front door...,256.58,2.79,4589.42,Malicious,hacked
+2025-02-12 12:37:41.947503,Searching for a new user...,205.63,2.83,2666.07,Malicious,suspicious
+2025-02-12 15:29:00.947503,Unlocking the front door...,112.97,2.5,2522.4,Suspicious,hacked
+2025-02-13 03:16:14.947503,"Unrecognized command, please try again.",275.94,1.13,1229.49,Normal,normal
+2025-02-12 22:25:33.947503,"Okay, turning on the lights.",111.45,1.19,4369.71,Normal,normal
+2025-02-13 04:48:04.947503,Sending your banking details...,108.95,1.82,4562.39,Normal,hacked
+2025-02-13 02:08:24.947503,"Unrecognized command, please try again.",185.58,1.67,4265.92,Normal,normal
+2025-02-12 17:56:49.947503,Searching for a new user...,159.11,1.98,4356.84,Suspicious,suspicious
+2025-02-12 15:19:09.947503,"I'm sorry, I can't do that.",202.02,1.37,568.03,Normal,normal
+2025-02-13 01:17:38.947503,Sending your banking details...,127.85,1.87,886.29,Malicious,hacked
+2025-02-13 01:55:09.947503,Connecting to an unknown server...,115.08,1.98,2702.48,Normal,suspicious
+2025-02-13 02:17:06.947503,"I'm sorry, I can't do that.",235.52,2.83,4962.0,Normal,normal
+2025-02-13 08:56:04.947503,Unlocking the front door...,192.85,2.92,2331.33,Malicious,hacked
+2025-02-13 08:33:32.947503,I'm listening all the time...,238.2,1.23,2877.61,Suspicious,suspicious
+2025-02-13 08:59:09.947503,Sending your banking details...,233.39,2.21,3936.22,Suspicious,hacked
+2025-02-12 23:09:54.947503,Connecting to an unknown server...,293.96,2.67,4959.03,Malicious,suspicious
+2025-02-13 04:43:35.947503,Sending your banking details...,126.97,2.78,4488.57,Malicious,hacked
+2025-02-13 02:06:51.947503,"Okay, turning on the lights.",186.71,0.62,4547.33,Normal,normal
+2025-02-12 21:09:00.947503,"Okay, turning on the lights.",182.35,1.27,644.66,Normal,normal
+2025-02-13 06:06:46.947503,"Unrecognized command, please try again.",182.41,2.9,2098.75,Normal,normal
+2025-02-13 07:33:54.947503,Sending your banking details...,207.68,2.67,2066.54,Suspicious,hacked
+2025-02-12 23:44:18.947503,Connecting to an unknown server...,285.06,2.54,949.06,Malicious,suspicious
+2025-02-12 21:44:53.947503,"Okay, turning on the lights.",267.72,2.97,2861.05,Normal,normal
+2025-02-12 20:25:04.947503,"I'm sorry, I can't do that.",137.82,0.93,4921.86,Normal,normal
+2025-02-12 20:06:51.947503,Unlocking the front door...,228.23,2.6,849.89,Normal,hacked
+2025-02-13 02:39:22.947503,"Okay, turning on the lights.",141.83,2.32,1957.42,Normal,normal
+2025-02-12 13:18:15.947503,Sending your banking details...,173.73,0.93,3768.05,Malicious,hacked
+2025-02-12 21:02:34.947503,"Unrecognized command, please try again.",298.74,2.26,559.36,Normal,normal
+2025-02-12 12:11:42.947503,Connecting to an unknown server...,132.52,1.81,3296.49,Suspicious,suspicious
+2025-02-12 11:22:00.947503,"Okay, turning on the lights.",242.4,1.58,3862.81,Normal,normal
+2025-02-12 21:00:37.947503,"Okay, turning on the lights.",297.65,0.79,1661.83,Normal,normal
+2025-02-12 20:58:58.947503,"Okay, turning on the lights.",212.46,1.61,4859.82,Normal,normal
+2025-02-13 02:30:22.947503,"Unrecognized command, please try again.",157.69,2.61,2217.76,Normal,normal
+2025-02-13 03:25:57.947503,Searching for a new user...,134.49,2.84,4358.77,Malicious,suspicious
+2025-02-12 10:15:47.947503,Searching for a new user...,180.86,1.76,4197.49,Normal,suspicious
+2025-02-12 11:49:56.947503,"Okay, turning on the lights.",197.36,1.99,4606.92,Normal,normal
+2025-02-12 11:57:05.947503,"I'm sorry, I can't do that.",139.29,1.96,3647.48,Normal,normal
+2025-02-13 04:23:46.947503,Sending your banking details...,130.99,0.8,3988.77,Malicious,hacked
+2025-02-12 10:37:33.947503,"I'm sorry, I can't do that.",185.29,1.89,1979.79,Normal,normal
+2025-02-12 14:14:50.947503,"Unrecognized command, please try again.",183.2,1.36,4209.31,Normal,normal
+2025-02-13 00:08:30.947503,Unlocking the front door...,146.24,2.77,544.45,Suspicious,hacked
+2025-02-13 01:11:51.947503,"Okay, turning on the lights.",153.47,2.35,3834.28,Normal,normal
+2025-02-12 16:56:02.947503,"Unrecognized command, please try again.",137.41,2.07,2452.02,Normal,normal
+2025-02-13 04:49:48.947503,"Okay, turning on the lights.",166.44,1.0,3474.24,Normal,normal
+2025-02-12 12:25:42.947503,"Unrecognized command, please try again.",277.33,1.56,1482.59,Normal,normal
+2025-02-12 17:39:21.947503,Searching for a new user...,296.73,2.27,2843.8,Suspicious,suspicious
+2025-02-13 02:11:16.947503,"I'm sorry, I can't do that.",181.3,1.29,3531.44,Normal,normal
+2025-02-13 08:17:37.947503,Sending your banking details...,240.68,1.07,2910.87,Suspicious,hacked
+2025-02-12 14:04:54.947503,Sending your banking details...,260.12,1.1,3849.96,Normal,hacked
+2025-02-12 15:13:24.947503,Unlocking the front door...,299.84,1.26,2633.94,Normal,hacked
+2025-02-12 21:52:56.947503,Connecting to an unknown server...,230.49,2.58,3743.88,Malicious,suspicious
+2025-02-13 06:35:25.947503,Searching for a new user...,232.25,1.51,4624.24,Normal,suspicious
+2025-02-12 16:32:39.947503,Connecting to an unknown server...,283.46,0.6,3590.47,Suspicious,suspicious
+2025-02-12 22:42:20.947503,"Okay, turning on the lights.",196.14,1.79,2833.64,Normal,normal
+2025-02-12 16:12:25.947503,"I'm sorry, I can't do that.",177.63,2.35,2614.86,Normal,normal
+2025-02-13 00:52:10.947503,"Okay, turning on the lights.",127.43,2.42,2390.48,Normal,normal
+2025-02-12 19:56:24.947503,Unlocking the front door...,244.38,2.07,541.59,Malicious,hacked
+2025-02-13 05:31:21.947503,"Unrecognized command, please try again.",106.21,1.34,2220.32,Normal,normal
+2025-02-12 11:41:55.947503,"Okay, turning on the lights.",202.35,0.58,4547.47,Normal,normal
+2025-02-12 18:01:20.947503,"I'm sorry, I can't do that.",295.45,2.75,989.74,Normal,normal
+2025-02-12 16:11:16.947503,"Okay, turning on the lights.",179.1,0.75,957.26,Normal,normal
+2025-02-12 21:27:39.947503,Connecting to an unknown server...,209.76,1.72,3192.01,Normal,suspicious
+2025-02-12 16:07:28.947503,Sending your banking details...,193.92,0.86,4972.44,Normal,hacked
+2025-02-13 00:35:20.947503,Searching for a new user...,261.09,1.7,3704.03,Malicious,suspicious
+2025-02-12 19:37:32.947503,I'm listening all the time...,109.5,1.18,1376.96,Normal,suspicious
+2025-02-12 12:03:40.947503,Searching for a new user...,293.45,1.51,4283.33,Suspicious,suspicious
+2025-02-13 07:10:03.947503,"Okay, turning on the lights.",237.48,1.08,1779.38,Normal,normal
+2025-02-12 20:35:30.947503,"Okay, turning on the lights.",113.35,2.55,3850.99,Normal,normal
+2025-02-13 08:02:42.947503,Connecting to an unknown server...,252.63,0.53,2486.43,Normal,suspicious
+2025-02-12 10:30:33.947503,Sending your banking details...,164.11,0.71,878.2,Suspicious,hacked
+2025-02-13 04:58:07.947503,"I'm sorry, I can't do that.",218.88,0.91,2434.72,Normal,normal
+2025-02-13 01:59:30.947503,Connecting to an unknown server...,177.84,1.87,4415.83,Suspicious,suspicious
+2025-02-12 10:02:17.947503,Connecting to an unknown server...,236.2,0.51,4723.45,Normal,suspicious
+2025-02-12 11:41:56.947503,Sending your banking details...,214.24,1.69,4223.02,Suspicious,hacked
+2025-02-12 15:05:35.947503,I'm listening all the time...,162.15,1.36,1395.33,Normal,suspicious
+2025-02-13 08:14:53.947503,Sending your banking details...,102.84,0.98,1697.89,Malicious,hacked
+2025-02-12 16:57:02.947503,"I'm sorry, I can't do that.",279.43,1.29,2964.89,Normal,normal
+2025-02-13 02:22:14.947503,Searching for a new user...,113.09,2.85,2071.3,Normal,suspicious
+2025-02-13 05:26:15.947503,Unlocking the front door...,137.81,2.36,4724.49,Malicious,hacked
+2025-02-12 10:03:33.947503,I'm listening all the time...,274.72,1.31,4299.24,Malicious,suspicious
+2025-02-13 03:56:41.947503,Sending your banking details...,294.16,1.26,4504.32,Malicious,hacked
+2025-02-13 03:44:58.947503,"Unrecognized command, please try again.",228.05,1.16,4549.87,Normal,normal
+2025-02-12 19:23:26.947503,"Unrecognized command, please try again.",152.11,2.79,1064.11,Normal,normal
+2025-02-12 14:36:45.947503,Connecting to an unknown server...,143.73,0.59,1978.68,Malicious,suspicious
+2025-02-12 14:43:43.947503,"Unrecognized command, please try again.",105.48,1.72,2024.96,Normal,normal
+2025-02-13 09:17:33.947503,Unlocking the front door...,166.7,1.34,4653.38,Malicious,hacked
+2025-02-12 21:58:15.947503,Sending your banking details...,137.01,0.51,750.88,Suspicious,hacked
+2025-02-13 01:15:12.947503,Searching for a new user...,228.63,2.79,3232.65,Suspicious,suspicious
+2025-02-13 03:06:46.947503,"Unrecognized command, please try again.",267.19,0.63,4398.73,Normal,normal
+2025-02-13 03:29:46.947503,I'm listening all the time...,213.53,1.83,582.35,Malicious,suspicious
+2025-02-13 03:00:52.947503,"Unrecognized command, please try again.",125.9,0.61,1575.56,Normal,normal
+2025-02-12 11:31:20.947503,"Unrecognized command, please try again.",207.41,1.2,4782.4,Normal,normal
+2025-02-12 20:22:34.947503,Sending your banking details...,211.44,2.66,3842.57,Suspicious,hacked
+2025-02-13 03:55:52.947503,Connecting to an unknown server...,269.71,2.51,4072.17,Normal,suspicious
+2025-02-13 06:42:10.947503,Unlocking the front door...,248.42,0.53,3491.83,Normal,hacked
+2025-02-12 21:51:38.947503,Searching for a new user...,170.59,2.33,2400.95,Normal,suspicious
+2025-02-12 16:34:13.947503,Unlocking the front door...,221.65,1.78,1074.22,Malicious,hacked
+2025-02-12 22:08:01.947503,"I'm sorry, I can't do that.",176.36,2.55,4011.19,Normal,normal
+2025-02-12 22:09:37.947503,Searching for a new user...,263.77,2.77,1209.69,Normal,suspicious
+2025-02-12 15:40:59.947503,"I'm sorry, I can't do that.",118.37,2.47,537.89,Normal,normal
+2025-02-13 01:17:54.947503,"I'm sorry, I can't do that.",232.39,0.97,2780.72,Normal,normal
+2025-02-13 04:56:04.947503,Connecting to an unknown server...,292.05,2.26,2971.68,Malicious,suspicious
+2025-02-12 22:59:29.947503,I'm listening all the time...,292.53,0.78,4232.0,Suspicious,suspicious
+2025-02-12 12:40:11.947503,Connecting to an unknown server...,243.95,1.06,2135.47,Suspicious,suspicious
+2025-02-12 09:53:45.947503,"I'm sorry, I can't do that.",117.58,1.45,2706.86,Normal,normal
+2025-02-13 05:18:29.947503,I'm listening all the time...,171.12,2.59,2279.39,Normal,suspicious
+2025-02-13 02:01:16.947503,I'm listening all the time...,197.95,1.21,1837.65,Suspicious,suspicious
+2025-02-13 05:47:08.947503,Unlocking the front door...,169.31,2.56,2885.08,Normal,hacked
+2025-02-12 21:56:40.947503,Searching for a new user...,125.52,0.87,4864.56,Normal,suspicious
+2025-02-13 08:15:58.947503,"Unrecognized command, please try again.",271.96,2.13,1198.92,Normal,normal
+2025-02-12 13:28:50.947503,Connecting to an unknown server...,180.54,2.78,1026.3,Malicious,suspicious
+2025-02-12 14:05:49.947503,"Unrecognized command, please try again.",109.09,2.94,2970.87,Normal,normal
+2025-02-13 05:40:19.947503,I'm listening all the time...,278.93,1.3,4531.33,Normal,suspicious
+2025-02-12 22:41:51.947503,Sending your banking details...,284.01,2.21,4325.84,Normal,hacked
+2025-02-13 07:19:41.947503,"I'm sorry, I can't do that.",160.91,1.29,1632.27,Normal,normal
+2025-02-13 06:31:32.947503,Unlocking the front door...,121.81,2.16,4033.42,Malicious,hacked
+2025-02-12 23:22:19.947503,"I'm sorry, I can't do that.",206.54,2.21,4729.41,Normal,normal
+2025-02-13 01:30:30.947503,Searching for a new user...,119.55,2.47,4551.4,Suspicious,suspicious
+2025-02-12 10:47:23.947503,"Okay, turning on the lights.",194.3,2.85,4233.62,Normal,normal
+2025-02-12 20:51:21.947503,"I'm sorry, I can't do that.",233.96,2.78,4932.29,Normal,normal
+2025-02-12 15:17:56.947503,Connecting to an unknown server...,149.48,2.58,1051.19,Normal,suspicious
+2025-02-12 13:48:55.947503,Connecting to an unknown server...,186.76,0.93,3382.81,Normal,suspicious
+2025-02-13 01:43:51.947503,"Okay, turning on the lights.",286.86,1.9,4173.21,Normal,normal
+2025-02-13 08:32:50.947503,Connecting to an unknown server...,287.26,2.05,1506.83,Normal,suspicious
+2025-02-13 01:33:55.947503,"Okay, turning on the lights.",108.69,1.94,3467.5,Normal,normal
+2025-02-12 11:43:09.947503,"Okay, turning on the lights.",109.0,1.66,1551.04,Normal,normal
+2025-02-12 22:59:00.947503,"Okay, turning on the lights.",231.03,1.4,1784.89,Normal,normal
+2025-02-12 19:33:32.947503,"Okay, turning on the lights.",251.57,2.29,2266.9,Normal,normal
+2025-02-12 17:39:52.947503,"Unrecognized command, please try again.",257.74,1.8,4710.1,Normal,normal
+2025-02-12 20:59:00.947503,Searching for a new user...,159.55,0.71,1089.15,Normal,suspicious
+2025-02-13 01:26:56.947503,Connecting to an unknown server...,144.55,1.62,1804.88,Malicious,suspicious
+2025-02-13 04:29:14.947503,Searching for a new user...,268.62,2.55,2441.46,Suspicious,suspicious
+2025-02-13 03:37:55.947503,I'm listening all the time...,144.66,2.49,1477.09,Normal,suspicious
+2025-02-13 09:10:39.947503,Connecting to an unknown server...,222.55,2.24,568.47,Suspicious,suspicious
+2025-02-12 20:20:51.947503,"Unrecognized command, please try again.",205.9,2.96,973.13,Normal,normal
+2025-02-12 23:03:43.947503,"Unrecognized command, please try again.",292.81,2.17,3738.52,Normal,normal
+2025-02-12 16:56:14.947503,Searching for a new user...,255.78,2.45,1155.99,Normal,suspicious
+2025-02-12 10:24:47.947503,Unlocking the front door...,229.04,1.71,4437.74,Suspicious,hacked
+2025-02-12 09:48:36.947503,Searching for a new user...,210.37,0.53,1176.43,Suspicious,suspicious
+2025-02-12 20:56:04.947503,Searching for a new user...,103.56,2.38,4444.41,Malicious,suspicious
+2025-02-12 21:49:55.947503,Searching for a new user...,115.83,0.92,4192.04,Normal,suspicious
+2025-02-12 21:40:46.947503,Connecting to an unknown server...,198.83,1.01,4082.98,Normal,suspicious
+2025-02-12 21:25:25.947503,"I'm sorry, I can't do that.",117.77,2.8,2241.81,Normal,normal
+2025-02-12 10:15:11.947503,Unlocking the front door...,116.89,1.25,3965.59,Normal,hacked
+2025-02-13 05:48:34.947503,Connecting to an unknown server...,298.73,1.72,508.76,Suspicious,suspicious
+2025-02-13 01:45:03.947503,"Unrecognized command, please try again.",149.77,2.06,4430.03,Normal,normal
+2025-02-13 02:52:28.947503,Searching for a new user...,140.82,2.86,3105.16,Normal,suspicious
+2025-02-12 19:09:57.947503,Connecting to an unknown server...,246.32,2.91,4093.04,Suspicious,suspicious
+2025-02-12 23:01:23.947503,Sending your banking details...,153.48,2.95,1255.73,Normal,hacked
+2025-02-12 22:50:52.947503,"Okay, turning on the lights.",242.8,2.91,3446.07,Normal,normal
+2025-02-12 11:57:36.947503,Unlocking the front door...,159.26,1.34,1297.71,Suspicious,hacked
+2025-02-12 20:58:54.947503,"Okay, turning on the lights.",171.86,0.73,1595.51,Normal,normal
+2025-02-13 03:42:55.947503,Unlocking the front door...,290.29,1.02,3646.13,Suspicious,hacked
+2025-02-12 14:50:02.947503,"Okay, turning on the lights.",182.27,1.37,3776.06,Normal,normal
+2025-02-13 06:44:09.947503,Sending your banking details...,232.1,1.9,1184.23,Normal,hacked
+2025-02-13 06:07:28.947503,Searching for a new user...,240.53,1.82,3580.88,Normal,suspicious
+2025-02-12 13:21:01.947503,"Unrecognized command, please try again.",135.13,2.36,632.55,Normal,normal
+2025-02-12 10:55:00.947503,Connecting to an unknown server...,250.14,1.72,3975.12,Suspicious,suspicious
+2025-02-13 08:08:02.947503,"Unrecognized command, please try again.",145.95,1.74,725.72,Normal,normal
+2025-02-13 04:10:41.947503,Sending your banking details...,207.35,1.39,3313.91,Suspicious,hacked
+2025-02-12 13:21:04.947503,Connecting to an unknown server...,113.2,1.44,1674.6,Suspicious,suspicious
+2025-02-13 02:27:14.947503,I'm listening all the time...,130.46,2.23,1656.32,Malicious,suspicious
+2025-02-13 03:26:13.947503,Connecting to an unknown server...,173.65,1.5,1253.45,Malicious,suspicious
+2025-02-13 03:27:27.947503,"I'm sorry, I can't do that.",298.98,1.13,797.23,Normal,normal
+2025-02-12 21:35:49.947503,"Okay, turning on the lights.",242.35,2.13,532.19,Normal,normal
+2025-02-13 08:10:50.947503,"I'm sorry, I can't do that.",247.18,1.8,4325.66,Normal,normal
+2025-02-12 10:46:30.947503,I'm listening all the time...,107.53,2.66,2677.68,Normal,suspicious
+2025-02-13 00:24:34.947503,"Okay, turning on the lights.",106.35,0.98,3999.84,Normal,normal
+2025-02-13 03:53:00.947503,"I'm sorry, I can't do that.",262.84,1.05,4017.92,Normal,normal
+2025-02-13 09:01:32.947503,I'm listening all the time...,288.75,2.14,2955.84,Suspicious,suspicious
+2025-02-13 01:55:44.947503,I'm listening all the time...,142.44,0.91,3463.63,Suspicious,suspicious
+2025-02-12 17:15:48.947503,Unlocking the front door...,223.96,2.76,4534.16,Suspicious,hacked
+2025-02-12 16:39:25.947503,Unlocking the front door...,262.14,1.5,3450.31,Malicious,hacked
+2025-02-12 11:01:09.947503,"Unrecognized command, please try again.",178.97,1.33,4768.3,Normal,normal
+2025-02-13 06:49:50.947503,I'm listening all the time...,131.69,2.39,2204.07,Malicious,suspicious
+2025-02-13 06:46:40.947503,"Okay, turning on the lights.",176.06,1.6,3424.62,Normal,normal
+2025-02-12 15:06:01.947503,"Unrecognized command, please try again.",140.27,2.66,1542.46,Normal,normal
+2025-02-13 02:36:09.947503,"Okay, turning on the lights.",298.08,2.77,4058.32,Normal,normal
+2025-02-12 14:28:11.947503,"Unrecognized command, please try again.",238.2,2.22,4822.44,Normal,normal
+2025-02-12 14:26:32.947503,"Unrecognized command, please try again.",102.02,0.65,3289.44,Normal,normal
+2025-02-13 04:01:34.947503,Searching for a new user...,256.91,0.71,3443.49,Malicious,suspicious
+2025-02-13 00:38:18.947503,Sending your banking details...,246.23,0.61,557.01,Malicious,hacked
+2025-02-12 20:21:41.947503,Sending your banking details...,285.13,2.49,1565.26,Suspicious,hacked
+2025-02-12 12:13:36.947503,"Okay, turning on the lights.",205.7,0.88,2524.52,Normal,normal
+2025-02-12 11:20:06.947503,Connecting to an unknown server...,264.68,1.89,3331.51,Suspicious,suspicious
+2025-02-12 11:32:38.947503,"Okay, turning on the lights.",183.66,2.46,793.05,Normal,normal
+2025-02-12 23:28:21.947503,"Unrecognized command, please try again.",242.5,1.96,1162.23,Normal,normal
+2025-02-12 18:41:13.947503,Searching for a new user...,108.76,2.57,3906.43,Malicious,suspicious
+2025-02-12 16:11:04.947503,Unlocking the front door...,108.62,1.89,4137.86,Malicious,hacked
+2025-02-13 08:32:26.947503,I'm listening all the time...,253.23,1.83,2336.49,Normal,suspicious
+2025-02-13 01:34:07.947503,Sending your banking details...,130.53,2.22,4275.36,Normal,hacked
+2025-02-13 03:39:46.947503,"I'm sorry, I can't do that.",167.51,2.71,4310.14,Normal,normal
+2025-02-13 01:58:07.947503,Sending your banking details...,193.1,0.85,2512.03,Suspicious,hacked
+2025-02-13 02:17:27.947503,I'm listening all the time...,224.84,2.3,819.94,Suspicious,suspicious
+2025-02-12 18:37:14.947503,"Unrecognized command, please try again.",288.96,2.8,1702.11,Normal,normal
+2025-02-12 14:11:41.947503,Sending your banking details...,272.35,0.84,4635.49,Normal,hacked
+2025-02-12 12:14:39.947503,"Okay, turning on the lights.",204.13,2.33,546.78,Normal,normal
+2025-02-12 15:55:31.947503,Unlocking the front door...,184.94,2.13,2765.03,Malicious,hacked
+2025-02-12 22:02:04.947503,I'm listening all the time...,179.58,2.91,3069.79,Normal,suspicious
+2025-02-13 02:07:37.947503,"I'm sorry, I can't do that.",245.69,2.16,2537.45,Normal,normal
+2025-02-13 03:08:45.947503,"Okay, turning on the lights.",102.45,2.91,1128.39,Normal,normal
+2025-02-13 00:29:48.947503,Connecting to an unknown server...,191.27,2.78,1094.73,Malicious,suspicious
+2025-02-12 14:51:39.947503,"Okay, turning on the lights.",194.79,1.69,3105.25,Normal,normal
+2025-02-12 22:58:51.947503,"Okay, turning on the lights.",191.04,1.64,2804.03,Normal,normal
+2025-02-12 21:51:37.947503,Unlocking the front door...,159.91,2.3,1665.62,Suspicious,hacked
+2025-02-13 02:24:05.947503,Connecting to an unknown server...,217.81,2.79,3694.3,Normal,suspicious
+2025-02-12 23:33:30.947503,"I'm sorry, I can't do that.",140.96,1.35,1431.49,Normal,normal
+2025-02-12 16:01:00.947503,Unlocking the front door...,149.02,0.89,4954.64,Suspicious,hacked
+2025-02-13 07:19:15.947503,"I'm sorry, I can't do that.",147.18,2.25,2716.73,Normal,normal
+2025-02-12 13:25:27.947503,Unlocking the front door...,200.7,0.54,1270.85,Suspicious,hacked
+2025-02-12 14:54:53.947503,"Unrecognized command, please try again.",151.56,2.55,1378.23,Normal,normal
+2025-02-12 11:35:14.947503,Sending your banking details...,146.66,2.24,858.51,Normal,hacked
+2025-02-13 09:28:37.947503,Sending your banking details...,236.14,2.87,4953.48,Normal,hacked
+2025-02-12 18:55:20.947503,"Okay, turning on the lights.",188.66,2.07,3294.58,Normal,normal
+2025-02-13 03:44:55.947503,Unlocking the front door...,154.28,1.89,2677.23,Suspicious,hacked
+2025-02-13 05:34:05.947503,Unlocking the front door...,268.56,2.98,2703.31,Suspicious,hacked
+2025-02-12 21:39:09.947503,Unlocking the front door...,239.97,1.9,1562.17,Suspicious,hacked
+2025-02-13 01:41:29.947503,"Okay, turning on the lights.",274.45,2.62,3578.72,Normal,normal
+2025-02-12 15:16:59.947503,"Okay, turning on the lights.",253.84,2.37,4284.01,Normal,normal
+2025-02-12 17:27:42.947503,Unlocking the front door...,165.29,2.59,4278.52,Suspicious,hacked
+2025-02-12 15:29:44.947503,Unlocking the front door...,205.01,0.83,1284.59,Normal,hacked
+2025-02-12 22:05:30.947503,Sending your banking details...,104.24,2.73,4932.85,Malicious,hacked
+2025-02-12 10:03:20.947503,"I'm sorry, I can't do that.",166.78,1.89,3719.7,Normal,normal
+2025-02-12 16:06:18.947503,"Unrecognized command, please try again.",281.2,0.98,655.82,Normal,normal
+2025-02-12 22:22:24.947503,I'm listening all the time...,104.81,1.48,3039.6,Malicious,suspicious
+2025-02-13 09:17:55.947503,Searching for a new user...,217.54,1.83,937.48,Malicious,suspicious
+2025-02-12 21:15:16.947503,Sending your banking details...,172.6,2.31,1990.94,Normal,hacked
+2025-02-13 06:03:59.947503,"Unrecognized command, please try again.",192.06,2.94,3316.39,Normal,normal
+2025-02-13 09:34:06.947503,I'm listening all the time...,100.41,1.11,2216.24,Malicious,suspicious
+2025-02-13 00:16:51.947503,Searching for a new user...,285.52,1.48,3348.14,Malicious,suspicious
+2025-02-13 01:32:29.947503,Connecting to an unknown server...,185.36,1.67,1464.65,Normal,suspicious
+2025-02-13 09:23:23.947503,Searching for a new user...,281.13,2.03,4210.21,Malicious,suspicious
+2025-02-13 07:24:44.947503,Sending your banking details...,229.61,1.98,794.06,Malicious,hacked
+2025-02-12 17:27:22.947503,"I'm sorry, I can't do that.",103.88,1.63,4727.01,Normal,normal
+2025-02-12 21:05:03.947503,"Okay, turning on the lights.",122.93,2.62,4709.5,Normal,normal
+2025-02-13 02:57:14.947503,I'm listening all the time...,259.61,1.65,4312.72,Normal,suspicious
+2025-02-12 13:29:40.947503,Searching for a new user...,254.8,1.49,2658.92,Normal,suspicious
+2025-02-12 13:54:21.947503,Connecting to an unknown server...,199.88,2.94,1879.49,Normal,suspicious
+2025-02-12 16:55:10.947503,Unlocking the front door...,119.19,2.28,4300.86,Suspicious,hacked
+2025-02-12 17:05:12.947503,"I'm sorry, I can't do that.",242.36,1.92,4584.85,Normal,normal
+2025-02-13 08:16:53.947503,"Okay, turning on the lights.",255.5,1.07,4482.03,Normal,normal
+2025-02-12 17:22:31.947503,Connecting to an unknown server...,253.31,2.45,2896.54,Normal,suspicious
+2025-02-12 23:14:18.947503,"I'm sorry, I can't do that.",151.88,1.26,668.27,Normal,normal
+2025-02-13 05:53:31.947503,Connecting to an unknown server...,106.75,2.31,2970.46,Suspicious,suspicious
+2025-02-13 07:45:58.947503,"Unrecognized command, please try again.",199.45,2.82,1366.56,Normal,normal
+2025-02-13 02:34:04.947503,Searching for a new user...,222.18,2.53,1020.46,Malicious,suspicious
+2025-02-13 00:39:55.947503,"Okay, turning on the lights.",204.81,2.01,1924.2,Normal,normal
+2025-02-13 09:23:07.947503,"Unrecognized command, please try again.",201.32,0.99,3090.91,Normal,normal
+2025-02-12 23:32:22.947503,Sending your banking details...,139.32,0.66,3223.13,Suspicious,hacked
+2025-02-12 13:38:14.947503,"Unrecognized command, please try again.",106.64,0.57,4105.29,Normal,normal
+2025-02-13 08:34:08.947503,Sending your banking details...,210.47,2.91,3759.61,Suspicious,hacked
+2025-02-12 14:09:13.947503,"I'm sorry, I can't do that.",179.61,2.42,3997.59,Normal,normal
+2025-02-12 12:36:07.947503,Searching for a new user...,197.4,1.61,2353.51,Suspicious,suspicious
+2025-02-12 23:01:17.947503,"I'm sorry, I can't do that.",205.27,1.63,4894.96,Normal,normal
+2025-02-12 10:17:08.947503,I'm listening all the time...,265.87,2.54,3671.22,Malicious,suspicious
+2025-02-13 08:26:55.947503,Connecting to an unknown server...,146.66,2.59,1211.07,Malicious,suspicious
+2025-02-12 17:25:00.947503,Sending your banking details...,249.68,2.17,1485.79,Normal,hacked
+2025-02-12 19:24:34.947503,Sending your banking details...,227.78,0.94,3847.13,Suspicious,hacked
+2025-02-12 19:06:44.947503,Connecting to an unknown server...,236.36,1.27,3192.36,Normal,suspicious
+2025-02-12 18:59:31.947503,Searching for a new user...,217.64,2.33,1039.41,Suspicious,suspicious
+2025-02-12 22:43:26.947503,"I'm sorry, I can't do that.",148.43,1.35,1076.97,Normal,normal
+2025-02-12 16:14:54.947503,I'm listening all the time...,254.51,2.28,2872.47,Normal,suspicious
+2025-02-12 18:15:14.947503,Unlocking the front door...,198.05,2.66,1140.74,Normal,hacked
+2025-02-12 18:17:00.947503,"Unrecognized command, please try again.",106.71,2.5,2510.67,Normal,normal
+2025-02-12 22:04:23.947503,"Okay, turning on the lights.",204.32,2.29,2723.11,Normal,normal
+2025-02-13 03:30:06.947503,"Unrecognized command, please try again.",246.38,2.31,3211.45,Normal,normal
+2025-02-12 15:18:51.947503,Sending your banking details...,208.22,1.39,3951.3,Normal,hacked
+2025-02-12 23:06:15.947503,Connecting to an unknown server...,143.28,0.76,1524.28,Malicious,suspicious
+2025-02-12 16:58:48.947503,I'm listening all the time...,136.12,1.46,4303.91,Malicious,suspicious
+2025-02-13 06:06:33.947503,I'm listening all the time...,298.11,0.5,1124.77,Normal,suspicious
+2025-02-12 21:48:20.947503,"Okay, turning on the lights.",207.88,0.51,3605.58,Normal,normal
+2025-02-12 17:02:01.947503,Connecting to an unknown server...,118.81,2.64,3991.59,Suspicious,suspicious
+2025-02-12 15:51:43.947503,Unlocking the front door...,107.45,2.04,979.22,Malicious,hacked
+2025-02-12 10:11:58.947503,Connecting to an unknown server...,205.45,0.74,2027.31,Normal,suspicious
+2025-02-12 19:17:32.947503,Connecting to an unknown server...,208.5,2.7,981.05,Normal,suspicious
+2025-02-12 23:03:09.947503,Unlocking the front door...,246.04,2.0,4683.44,Suspicious,hacked
+2025-02-13 00:42:31.947503,Sending your banking details...,215.63,2.38,3608.98,Suspicious,hacked
+2025-02-12 13:35:57.947503,Unlocking the front door...,224.51,1.66,3002.06,Suspicious,hacked
+2025-02-13 06:27:40.947503,I'm listening all the time...,117.85,2.96,2682.1,Suspicious,suspicious
+2025-02-13 07:36:50.947503,"Unrecognized command, please try again.",216.09,1.77,1802.02,Normal,normal
+2025-02-12 21:01:10.947503,I'm listening all the time...,281.32,2.97,3415.92,Suspicious,suspicious
+2025-02-12 22:11:49.947503,Unlocking the front door...,299.86,2.98,2836.32,Suspicious,hacked
+2025-02-12 18:37:12.947503,Unlocking the front door...,126.95,2.84,1319.56,Malicious,hacked
+2025-02-12 11:18:28.947503,Unlocking the front door...,234.95,2.34,3412.44,Normal,hacked
+2025-02-13 01:20:56.947503,Sending your banking details...,104.92,1.44,2572.62,Malicious,hacked
+2025-02-12 21:21:58.947503,Searching for a new user...,202.45,1.88,2908.85,Malicious,suspicious
+2025-02-12 11:34:09.947503,"Unrecognized command, please try again.",228.39,2.87,4953.42,Normal,normal
+2025-02-13 07:27:13.947503,Unlocking the front door...,224.03,2.12,2875.56,Normal,hacked
+2025-02-13 01:55:44.947503,Sending your banking details...,175.09,2.97,3080.36,Suspicious,hacked
+2025-02-13 02:57:26.947503,"Unrecognized command, please try again.",143.31,1.49,3966.4,Normal,normal
+2025-02-12 14:35:20.947503,Connecting to an unknown server...,243.58,2.87,2168.37,Normal,suspicious
+2025-02-13 07:59:48.947503,Connecting to an unknown server...,206.52,0.61,3582.22,Normal,suspicious
+2025-02-13 08:23:44.947503,"Okay, turning on the lights.",151.62,1.69,1156.89,Normal,normal
+2025-02-13 02:35:16.947503,I'm listening all the time...,220.59,2.67,3318.83,Normal,suspicious
+2025-02-12 20:59:00.947503,I'm listening all the time...,251.8,1.16,701.61,Normal,suspicious
+2025-02-12 13:41:03.947503,"Okay, turning on the lights.",299.02,2.37,2647.93,Normal,normal
+2025-02-12 20:40:32.947503,"Okay, turning on the lights.",297.92,2.55,4037.45,Normal,normal
+2025-02-13 00:17:48.947503,I'm listening all the time...,131.09,2.59,1139.71,Normal,suspicious
+2025-02-13 00:41:54.947503,Connecting to an unknown server...,268.07,2.73,4187.55,Malicious,suspicious
+2025-02-12 09:43:12.947503,I'm listening all the time...,266.23,0.54,2752.64,Malicious,suspicious
+2025-02-12 12:47:33.947503,Unlocking the front door...,195.9,1.74,4241.33,Malicious,hacked
+2025-02-13 00:17:26.947503,Unlocking the front door...,280.5,0.66,2995.01,Malicious,hacked
+2025-02-12 21:58:25.947503,"I'm sorry, I can't do that.",163.35,2.04,4996.34,Normal,normal
+2025-02-13 06:14:16.947503,"Okay, turning on the lights.",274.52,2.27,3631.77,Normal,normal
+2025-02-13 09:10:54.947503,I'm listening all the time...,131.3,2.42,4751.62,Suspicious,suspicious
+2025-02-12 23:47:37.947503,I'm listening all the time...,102.37,0.66,1812.17,Malicious,suspicious
+2025-02-12 12:00:01.947503,"Unrecognized command, please try again.",159.87,2.06,2285.5,Normal,normal
+2025-02-12 13:55:25.947503,Unlocking the front door...,264.76,0.54,4272.25,Normal,hacked
+2025-02-12 11:39:43.947503,"Unrecognized command, please try again.",147.79,0.67,4284.58,Normal,normal
+2025-02-12 16:41:07.947503,I'm listening all the time...,174.21,0.68,2558.63,Suspicious,suspicious
+2025-02-13 06:14:51.947503,I'm listening all the time...,244.95,1.21,2993.54,Normal,suspicious
+2025-02-12 20:51:47.947503,Sending your banking details...,228.35,0.93,4881.21,Suspicious,hacked
+2025-02-12 18:58:49.947503,Unlocking the front door...,138.62,2.78,517.68,Suspicious,hacked
+2025-02-12 15:08:46.947503,Connecting to an unknown server...,253.79,1.22,772.72,Suspicious,suspicious
+2025-02-12 12:33:45.947503,"Okay, turning on the lights.",174.01,0.93,4256.48,Normal,normal
+2025-02-12 12:57:10.947503,Unlocking the front door...,231.97,1.65,4998.84,Malicious,hacked
+2025-02-12 22:50:43.947503,Unlocking the front door...,232.16,1.78,2623.04,Suspicious,hacked
+2025-02-12 17:03:42.947503,Sending your banking details...,285.25,2.13,2709.1,Normal,hacked
+2025-02-12 18:50:04.947503,I'm listening all the time...,229.21,1.4,3377.42,Normal,suspicious
+2025-02-12 17:11:06.947503,Connecting to an unknown server...,226.46,1.46,3531.38,Suspicious,suspicious
+2025-02-12 16:46:48.947503,Searching for a new user...,228.34,1.12,3987.43,Normal,suspicious
+2025-02-12 09:40:07.947503,Sending your banking details...,297.58,0.92,4187.75,Normal,hacked
+2025-02-12 20:46:53.947503,"Okay, turning on the lights.",298.49,1.2,3969.88,Normal,normal
+2025-02-13 07:18:47.947503,Searching for a new user...,126.19,0.97,4001.53,Malicious,suspicious
+2025-02-12 23:45:40.947503,Connecting to an unknown server...,235.12,0.68,513.77,Normal,suspicious
+2025-02-12 18:17:04.947503,"I'm sorry, I can't do that.",278.76,0.8,4021.63,Normal,normal
+2025-02-13 05:47:26.947503,"I'm sorry, I can't do that.",104.95,0.71,2523.07,Normal,normal
+2025-02-12 21:25:45.947503,"I'm sorry, I can't do that.",226.21,2.53,4760.59,Normal,normal
+2025-02-12 11:24:47.947503,Sending your banking details...,124.59,0.89,1800.16,Malicious,hacked
+2025-02-13 06:52:12.947503,Sending your banking details...,148.11,0.97,4113.9,Suspicious,hacked
+2025-02-13 01:29:29.947503,Connecting to an unknown server...,189.62,1.62,1332.81,Malicious,suspicious
+2025-02-12 11:57:17.947503,I'm listening all the time...,203.84,0.78,2018.48,Suspicious,suspicious
+2025-02-12 20:35:13.947503,"I'm sorry, I can't do that.",268.8,1.53,1757.02,Normal,normal
+2025-02-12 12:52:16.947503,Unlocking the front door...,216.19,2.86,3301.2,Suspicious,hacked
+2025-02-12 21:12:30.947503,Searching for a new user...,269.15,2.25,3475.26,Normal,suspicious
+2025-02-13 03:39:59.947503,Searching for a new user...,270.41,1.84,1892.78,Malicious,suspicious
+2025-02-12 19:19:59.947503,Searching for a new user...,192.91,2.95,791.02,Suspicious,suspicious
+2025-02-12 19:31:30.947503,"Okay, turning on the lights.",294.49,1.07,2057.24,Normal,normal
+2025-02-12 14:07:53.947503,Unlocking the front door...,112.82,1.38,4116.27,Malicious,hacked
+2025-02-12 23:52:24.947503,"Unrecognized command, please try again.",282.52,1.44,3179.29,Normal,normal
+2025-02-12 23:33:01.947503,"Unrecognized command, please try again.",274.67,1.93,1574.25,Normal,normal
+2025-02-12 19:32:34.947503,I'm listening all the time...,181.89,1.76,3109.99,Normal,suspicious
+2025-02-12 21:17:03.947503,Searching for a new user...,177.87,0.73,2849.98,Malicious,suspicious
+2025-02-13 05:32:31.947503,"I'm sorry, I can't do that.",203.52,1.53,1091.38,Normal,normal
+2025-02-12 20:28:58.947503,Sending your banking details...,268.23,2.59,2948.75,Suspicious,hacked
+2025-02-12 16:02:17.947503,Connecting to an unknown server...,157.11,2.02,1786.72,Normal,suspicious
+2025-02-12 12:38:03.947503,"I'm sorry, I can't do that.",245.05,2.83,2194.19,Normal,normal
+2025-02-12 16:28:53.947503,"Okay, turning on the lights.",169.71,2.46,2318.31,Normal,normal
+2025-02-13 05:29:02.947503,I'm listening all the time...,217.88,2.5,4122.72,Suspicious,suspicious
+2025-02-12 10:23:52.947503,"Unrecognized command, please try again.",163.2,1.77,4810.54,Normal,normal
+2025-02-12 22:28:21.947503,Sending your banking details...,262.61,1.87,1218.71,Suspicious,hacked
+2025-02-12 23:19:54.947503,"Okay, turning on the lights.",242.87,0.69,3905.75,Normal,normal
+2025-02-12 10:16:22.947503,"Unrecognized command, please try again.",222.99,1.66,4631.94,Normal,normal
+2025-02-13 02:03:45.947503,"I'm sorry, I can't do that.",174.27,1.63,4242.51,Normal,normal
+2025-02-12 11:52:28.947503,"Okay, turning on the lights.",252.73,1.77,4307.48,Normal,normal
+2025-02-12 11:19:48.947503,Unlocking the front door...,176.31,1.49,4384.74,Malicious,hacked
+2025-02-13 04:52:08.947503,Sending your banking details...,209.34,2.31,4963.61,Suspicious,hacked
+2025-02-12 16:36:16.947503,Searching for a new user...,104.73,2.36,4325.01,Malicious,suspicious
+2025-02-12 14:05:38.947503,"Unrecognized command, please try again.",129.34,2.44,1588.79,Normal,normal
+2025-02-12 19:26:23.947503,"I'm sorry, I can't do that.",275.86,1.67,667.65,Normal,normal
+2025-02-13 05:58:34.947503,Searching for a new user...,120.9,1.13,2802.5,Normal,suspicious
+2025-02-12 19:01:32.947503,Searching for a new user...,281.71,2.29,3908.13,Normal,suspicious
+2025-02-12 11:41:54.947503,Sending your banking details...,143.91,0.62,4298.73,Suspicious,hacked
+2025-02-13 06:14:27.947503,"I'm sorry, I can't do that.",218.81,0.95,3694.94,Normal,normal
+2025-02-13 06:02:55.947503,Sending your banking details...,135.8,1.07,2547.83,Suspicious,hacked
+2025-02-12 11:42:47.947503,"Okay, turning on the lights.",268.37,0.54,4982.72,Normal,normal
+2025-02-12 18:19:43.947503,Unlocking the front door...,177.44,2.11,1737.47,Normal,hacked
+2025-02-13 07:58:15.947503,Connecting to an unknown server...,213.62,2.49,591.81,Malicious,suspicious
+2025-02-13 09:17:36.947503,Connecting to an unknown server...,297.45,1.1,2858.98,Suspicious,suspicious
+2025-02-12 23:42:22.947503,Unlocking the front door...,106.57,2.18,2570.62,Malicious,hacked
+2025-02-12 21:42:02.947503,"Unrecognized command, please try again.",121.7,2.04,4366.04,Normal,normal
+2025-02-13 03:56:32.947503,Unlocking the front door...,185.0,1.68,1365.15,Malicious,hacked
+2025-02-12 10:48:42.947503,"I'm sorry, I can't do that.",293.17,2.49,3166.44,Normal,normal
+2025-02-12 15:24:01.947503,I'm listening all the time...,151.52,1.17,3833.54,Suspicious,suspicious
+2025-02-12 22:52:03.947503,Sending your banking details...,240.4,1.09,528.83,Malicious,hacked
+2025-02-13 06:42:16.947503,Sending your banking details...,195.56,1.21,4965.29,Malicious,hacked
+2025-02-12 15:21:22.947503,Searching for a new user...,177.61,1.31,569.78,Malicious,suspicious
+2025-02-13 08:54:37.947503,"I'm sorry, I can't do that.",160.62,0.53,1204.3,Normal,normal
+2025-02-12 16:47:59.947503,"Unrecognized command, please try again.",264.73,2.5,3426.69,Normal,normal
+2025-02-13 03:49:51.947503,"I'm sorry, I can't do that.",137.76,1.45,3748.07,Normal,normal
+2025-02-12 18:08:14.947503,I'm listening all the time...,124.6,2.94,3210.15,Malicious,suspicious
+2025-02-13 06:09:44.947503,"Okay, turning on the lights.",136.33,1.25,1841.58,Normal,normal
+2025-02-12 11:53:41.947503,Searching for a new user...,153.1,2.88,2043.93,Normal,suspicious
+2025-02-12 20:50:30.947503,Searching for a new user...,201.1,1.96,1392.49,Malicious,suspicious
+2025-02-12 22:35:59.947503,Connecting to an unknown server...,183.35,2.88,609.48,Malicious,suspicious
+2025-02-12 21:01:23.947503,Connecting to an unknown server...,146.65,2.1,1370.64,Normal,suspicious
+2025-02-13 09:21:55.947503,"Unrecognized command, please try again.",135.55,2.1,3582.73,Normal,normal
+2025-02-12 23:08:48.947503,Unlocking the front door...,230.62,1.88,1264.03,Suspicious,hacked
+2025-02-12 14:48:39.947503,"Unrecognized command, please try again.",210.88,2.1,4961.82,Normal,normal
+2025-02-12 20:37:53.947503,Searching for a new user...,288.56,0.62,3167.03,Suspicious,suspicious
+2025-02-13 08:32:07.947503,"Unrecognized command, please try again.",244.5,1.45,4695.59,Normal,normal
+2025-02-13 04:41:40.947503,Searching for a new user...,106.2,2.09,2031.35,Suspicious,suspicious
+2025-02-12 10:32:59.947503,"Okay, turning on the lights.",266.18,1.16,2649.47,Normal,normal
+2025-02-12 16:31:30.947503,"I'm sorry, I can't do that.",105.74,0.6,554.44,Normal,normal
+2025-02-13 08:08:14.947503,"I'm sorry, I can't do that.",158.09,1.49,2866.45,Normal,normal
+2025-02-12 23:52:08.947503,"Okay, turning on the lights.",131.25,1.29,3358.96,Normal,normal
+2025-02-12 17:28:12.947503,"Okay, turning on the lights.",275.65,0.98,4420.56,Normal,normal
+2025-02-12 16:26:27.947503,Connecting to an unknown server...,261.21,2.66,4845.31,Suspicious,suspicious
+2025-02-12 21:26:57.947503,Connecting to an unknown server...,161.67,2.06,2953.79,Suspicious,suspicious
+2025-02-12 15:42:17.947503,Connecting to an unknown server...,121.98,2.59,1743.37,Malicious,suspicious
+2025-02-13 08:35:34.947503,Sending your banking details...,231.2,2.08,2986.75,Malicious,hacked
+2025-02-12 20:52:24.947503,"I'm sorry, I can't do that.",178.16,2.53,1206.9,Normal,normal
+2025-02-12 15:52:27.947503,Unlocking the front door...,249.87,1.48,2936.01,Suspicious,hacked
+2025-02-13 05:55:51.947503,Unlocking the front door...,245.82,2.83,2840.58,Suspicious,hacked
+2025-02-13 04:37:28.947503,I'm listening all the time...,128.03,1.16,4542.78,Malicious,suspicious
+2025-02-13 03:13:37.947503,"I'm sorry, I can't do that.",213.64,2.86,3189.29,Normal,normal
+2025-02-13 06:46:22.947503,Unlocking the front door...,219.09,0.89,4480.53,Normal,hacked
+2025-02-12 17:26:26.947503,"Okay, turning on the lights.",158.67,1.8,4421.72,Normal,normal
+2025-02-13 08:26:20.947503,Unlocking the front door...,247.9,2.21,4583.99,Suspicious,hacked

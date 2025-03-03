@@ -1,0 +1,12 @@
+Timestamp,Device,Event Type,IP Address,Status,Anomaly Score
+2/7/25 12:05,Smart Lock,Login Attempt,192.168.1.10,Success,0
+2/7/25 12:10,Security Camera,Device Access,192.168.1.12,Success,0
+2/7/25 12:15,Thermostat,Device Access,192.168.1.15,Success,0
+2/7/25 12:20,Smart TV,Network Request,192.168.1.5,Blocked,1
+2/7/25 12:25,Smart Lock,Login Attempt,203.0.113.45,Failed,1
+2/7/25 12:30,Motion Sensor,Device Access,192.168.1.14,Success,0
+2/7/25 12:35,Security Camera,Login Attempt,198.51.100.23,Failed,1
+2/7/25 12:40,Smart Speaker,Network Request,192.168.1.8,Blocked,1
+2/7/25 12:45,Thermostat,Device Access,192.168.1.16,Success,0
+2/7/25 12:50,Router,Network Request,203.0.113.99,Blocked,1
+#########,Alexa,Network Request,192.168.1.10,Success,1
